@@ -1,6 +1,6 @@
 # Agent instructions
 
-This repository is the durable, agent-readable mirror of Imtisaal's X/Twitter bookmark audit. It contains all 250 captured bookmarks plus three resources shared directly in the originating conversation.
+This repository is the durable, agent-readable mirror of Imtisaal's X/Twitter bookmark audit. It contains all 250 captured bookmarks plus four resources shared directly in the originating conversation.
 
 ## Start here
 

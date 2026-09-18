@@ -77,6 +77,7 @@ The Canadian Women’s Economic and Leadership Opportunities Fund closes at **12
 
 ## Design, motion, and video library
 
+- [Procedural Film](https://github.com/kuhnhomeuk-cell/procedural-film) — MIT-licensed agent skill for making 30-second vertical films in JavaScript. Keep it as a pinned reference; review dependencies, render cost, and media licensing before use.
 - [Melies Cinematic Techniques](https://melies.co/cinematic-techniques) — 424 camera, framing, lighting, editing, and genre techniques.
 - [Curated Design](https://curated.design/) — general live-site inspiration.
 - [Landing Love](https://www.landing.love/) — motion-focused landing-page recordings.

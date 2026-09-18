@@ -8,7 +8,7 @@
   "counts": {
     "all_bookmarks": 250,
     "priority_queue": 143,
-    "manually_shared": 3,
+    "manually_shared": 4,
     "usefulness": {
       "medium": 84,
       "high": 93,
@@ -5948,6 +5948,17 @@
       "Official resources": "https://github.com/github/spec-kit\nhttps://github.github.com/spec-kit/",
       "Status": "Saved as an official GitHub toolkit reference; not installed globally.",
       "Risk notes": "Adds project process, templates, and generated files. Pilot in one clean repository before broad adoption; review all generated specs and tasks."
+    },
+    {
+      "Item": "Procedural Film",
+      "Source": "Photo 1 / GitHub repository",
+      "Category": "procedural animation / generative video",
+      "Usefulness": "high",
+      "Target project": "video workflows; creative coding; future visual projects",
+      "Action": "evaluate",
+      "Official resources": "https://github.com/kuhnhomeuk-cell/procedural-film",
+      "Status": "Saved as a pinned source reference; not cloned locally.",
+      "Risk notes": "New repository. Review the skill, dependencies, render cost, and media licensing before use."
     }
   ]
 }

@@ -1,0 +1,43 @@
+name: PR Agent (advisory only)
+
+on:
+  pull_request_target:
+    types: [opened, reopened, synchronize, ready_for_review]
+
+concurrency:
+  group: pr-agent-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+permissions:
+  contents: none
+  issues: write
+  pull-requests: write
+
+jobs:
+  review:
+    if: ${{ github.event.sender.type != 'Bot' && github.event.pull_request.draft == false }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Do not add checkout, shell commands, installs, tests, or PR-controlled artifacts.
+      - name: Advisory PR review
+        uses: The-PR-Agent/pr-agent@f3b385ea2927247ddcff2fe252472380b9c8f5fc # v0.45.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_KEY: ${{ secrets.PR_AGENT_OPENAI_KEY }}
+          config.restricted_mode: "true"
+          config.enable_auto_approval: "false"
+          config.use_repo_settings_file: "false"
+          config.use_global_settings_file: "false"
+          config.enable_per_directory_settings: "false"
+          config.repo_context_files: "[]"
+          skills.enabled: "false"
+          artifacts.enable: "false"
+          github_action_config.auto_review: "true"
+          github_action_config.auto_describe: "false"
+          github_action_config.auto_improve: "false"
+          github_action_config.pr_actions: '["opened","reopened","synchronize","ready_for_review"]'
+          pr_reviewer.enable_review_labels_security: "false"
+          pr_reviewer.enable_review_labels_effort: "false"
+          pr_reviewer.require_merge_recommendation: "false"
+          pr_code_suggestions.approve_pr_on_self_review: "false"

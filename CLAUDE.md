@@ -4,7 +4,7 @@ Follow `AGENTS.md`. The useful entry points are:
 
 - `README.md`: curated decisions and project mapping.
 - `data/priority-queue.csv`: 143 actionable bookmark records.
-- `data/catalog.json`: all 250 bookmarks and the three manually shared resources.
+- `data/catalog.json`: all 250 bookmarks and the four manually shared resources.
 - `anti-slop-code-review-agents.md`: reviewed code-quality agent landscape.
 - `sources.lock.json`: pinned third-party source revisions and redistribution rules.
 

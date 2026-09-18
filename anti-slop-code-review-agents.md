@@ -48,6 +48,8 @@ The hosted product starts at [paid per-developer tiers with possible per-file ov
 
 The project now describes itself as a community-maintained legacy project of Qodo, so expect less context depth and support than the hosted [Qodo](https://www.qodo.ai/) product. Use BYO-model spend limits and pin the workflow by commit SHA.
 
+The ready-to-copy [`templates/pr-agent-advisory.yml`](templates/pr-agent-advisory.yml) keeps PR-Agent cloud-only and advisory. It has no checkout, shell, content-write, approval, autofix, or merge capability. It also disables comment commands, repository-controlled settings, skills, and artifacts. Install it only after adding a `PR_AGENT_OPENAI_KEY` Actions secret to the target repository.
+
 ### 4. Cursor Bugbot or Graphite Agent — only if already using the platform
 
 - [Cursor Bugbot](https://prod.cursor.com/docs/bugbot) reviews bugs, security, and quality and accepts repository-specific `.cursor/BUGBOT.md` rules. It has separate/usage-based billing, so it is not compelling unless Cursor is already the team's main environment.
@@ -78,15 +80,16 @@ For every PR agent:
 
 - Start in advisory mode.
 - Pin actions by full commit SHA.
-- Prefer `pull_request`, never an untrusted `pull_request_target` checkout.
+- Prefer `pull_request` for same-repository PRs. Use `pull_request_target` for fork reviews only when the job never checks out or executes PR-controlled code.
 - Grant only repository read and PR-comment permissions.
 - Disable autofix, auto-commit, and auto-merge during evaluation.
 - Run untrusted pull requests in an isolated cloud runner without production secrets.
 - Measure accepted findings, false positives, review cost, and escaped defects before expanding rollout.
+
+Repository text can still manipulate an AI review. Keep at least one human approval required, leave “Allow GitHub Actions to create and approve pull requests” off, and never make the AI comment itself a required merge gate.
 
 ## Browser versus X API
 
 Browser/computer use was the better choice for this one-off search because the existing signed-in session exposed current posts, full threads, engagement, and outbound links without developer setup. X results were valuable for discovery but included vendor promotion and anecdotes, so every recommendation was checked against an official source.
 
 Use the X API only for a recurring trend monitor or a large reproducible dataset. It would provide structured pagination and metrics but requires a developer project, credentials, rate-limit handling, and ongoing storage. It is unnecessary for an occasional curated scan.
-
