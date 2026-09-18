@@ -17,7 +17,14 @@
       "license": null,
       "handling": "Link and revision only. Do not redistribute or vendor without permission or a declared license.",
       "status": "Locally inspected during the audit; checkout intentionally excluded from this repository."
+    },
+    {
+      "name": "GitHub Spec Kit",
+      "repository": "https://github.com/github/spec-kit",
+      "commit": "5e952140659287106580d32f242ba71365a3862b",
+      "license": "MIT",
+      "handling": "Official GitHub toolkit retained as a pinned source reference. Pilot per project instead of installing globally.",
+      "status": "Catalogued from a user-supplied screenshot; not installed into any project."
     }
   ]
 }
-

@@ -8,7 +8,7 @@
   "counts": {
     "all_bookmarks": 250,
     "priority_queue": 143,
-    "manually_shared": 2,
+    "manually_shared": 3,
     "usefulness": {
       "medium": 84,
       "high": 93,
@@ -5937,6 +5937,17 @@
       "Official resources": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD\nhttps://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding",
       "Status": "Saved as hosted references; no large model download.",
       "Risk notes": "Very new and not independently benchmarked. Apple-Silicon MLX path is not a natural fit for this Intel Mac."
+    },
+    {
+      "Item": "GitHub Spec Kit",
+      "Source": "Photo 1 / GitHub repository",
+      "Category": "software development / agent workflows",
+      "Usefulness": "high",
+      "Target project": "all software projects; agent workflows",
+      "Action": "evaluate",
+      "Official resources": "https://github.com/github/spec-kit\nhttps://github.github.com/spec-kit/",
+      "Status": "Saved as an official GitHub toolkit reference; not installed globally.",
+      "Risk notes": "Adds project process, templates, and generated files. Pilot in one clean repository before broad adoption; review all generated specs and tasks."
     }
   ]
 }

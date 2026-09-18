@@ -44,6 +44,7 @@ The Canadian Women’s Economic and Leadership Opportunities Fund closes at **12
 
 ### Reusable engineering references
 
+- [GitHub Spec Kit](https://github.com/github/spec-kit) — MIT-licensed workflows and templates for specification, planning, tasks, implementation, bug fixing, and idea assessment. Pilot it in one clean repository before wider rollout.
 - [How complex systems fail](https://how.complexsystems.fail/) — concise resilience principles for `Lab-Zero-Primer`, `lab-zero-hub`, `elevate-studio`, and `lab-zero-outreach`.
 - [Sid Bharath’s AI Coding Best Practices](https://sidbharath.com/blog/mastering-ai-coding-the-universal-playbook-of-tips-tricks-and-patterns/) — planning, small reviewable changes, living docs, testing, branches, and human review.
 - [Jane Street: I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/) — use disposable working prototypes as living design proposals, then validate before productionizing.
