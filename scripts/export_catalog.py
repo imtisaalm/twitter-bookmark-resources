@@ -24,6 +24,8 @@ def normalize(value: Any) -> Any:
         return value.isoformat()
     if isinstance(value, float) and value.is_integer():
         return int(value)
+    if isinstance(value, str):
+        return "\n".join(line.rstrip() for line in value.splitlines())
     return value
 
 
@@ -77,10 +79,14 @@ def main() -> None:
 
     indexes = [record["#"] for record in all_bookmarks]
     tweet_urls = [record["Tweet URL"] for record in all_bookmarks]
-    if len(all_bookmarks) != 250:
-        raise ValueError(f"Expected 250 bookmarks, found {len(all_bookmarks)}")
-    if indexes != list(range(1, 251)):
-        raise ValueError("Bookmark indexes are not continuous from 1 through 250")
+    if not all_bookmarks:
+        raise ValueError("The workbook does not contain any bookmarks")
+    if indexes != list(range(1, len(all_bookmarks) + 1)):
+        raise ValueError(
+            "Bookmark indexes are not continuous from 1 through the current row count"
+        )
+    if any(not url for url in tweet_urls):
+        raise ValueError("Every bookmark must have a Tweet URL")
     if len(tweet_urls) != len(set(tweet_urls)):
         raise ValueError("Tweet URLs are not unique")
 
@@ -95,9 +101,9 @@ def main() -> None:
 
     catalog = {
         "schema_version": 1,
-        "captured_on": "2026-09-17",
+        "captured_on": date.today().isoformat(),
         "source": {
-            "title": "Twitter Bookmarks — Complete Catalog (250)",
+            "title": f"Twitter Bookmarks — Complete Catalog ({len(all_bookmarks)})",
             "url": SOURCE_URL,
         },
         "counts": {

@@ -1,15 +1,14 @@
 # Twitter bookmark harvest
 
-
 The goal is to turn durable bookmarks into useful project inputs without bulk-installing untrusted code. Links were checked against official repositories or product documentation where practical.
 
 ## Agent access
 
-This repository is the git mirror for Codex, Claude, and other coding agents. It includes the full 250-bookmark export, not only the curated selections below.
+This repository is the git mirror for Codex, Claude, and other coding agents. It includes the full 252-bookmark export, not only the curated selections below.
 
 - `data/catalog.json` — complete machine-readable catalog, priority queue, and manually shared items.
 - `data/all-bookmarks.csv` — one row per captured bookmark.
-- `data/priority-queue.csv` — 143 bookmarks with a concrete install, reference, research, or project action.
+- `data/priority-queue.csv` — 145 bookmarks with a concrete install, reference, research, or project action.
 - `data/twitter-bookmarks-complete.xlsx` — unchanged export of the authoritative Google Sheet.
 - `AGENTS.md` and `CLAUDE.md` — safe-use and refresh instructions.
 - `sources.lock.json` — pinned revisions for code repositories inspected during the audit.
@@ -73,6 +72,8 @@ The source Sheet remains available in [Google Drive](https://docs.google.com/spr
 
 ## Advanced learning
 
+- [15 inference infrastructure projects](https://x.com/suraj_sharma14/status/2100925305632469196) — practical portfolio backlog spanning serving, benchmarks, KV caching, quantization, kernels, autoscaling, reliability, and cost-per-token analysis.
+- [Inference infrastructure engineering roadmap](https://x.com/suraj_sharma14/status/2100562915460096465) — staged path from systems and GPU foundations through distributed serving, routing, reliability, and public benchmarks.
 - [Qwen-2.5-1B-RLCD model](https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD) and [parallel constrained-decoding demo](https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding) — this is the resource from the specifically shared X post. Use the hosted demo: its fast local MLX path targets Apple Silicon, while the PyTorch CPU fallback would be slow and consume several gigabytes on this Intel Mac.
 - [Jane Street: positional encodings through group theory](https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/)
 - [Jane Street neural-network reverse-engineering puzzle](https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/)

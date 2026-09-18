@@ -1,6 +1,6 @@
 # Agent instructions
 
-This repository is the durable, agent-readable mirror of Imtisaal's X/Twitter bookmark audit. It contains all 250 captured bookmarks plus four resources shared directly in the originating conversation.
+This repository is the durable, agent-readable mirror of Imtisaal's X/Twitter bookmark audit. It contains all 252 captured bookmarks plus four resources shared directly in the originating conversation.
 
 ## Start here
 
@@ -25,7 +25,7 @@ The `Target project` and `Action` fields are recommendations, not authorization 
 
 `data/twitter-bookmarks-complete.xlsx` is the exported workbook snapshot. The CSV and JSON files were generated from it with `scripts/export_catalog.py`. The Google Sheet URL is retained as the cloud source, but this git repository is the portable copy for Codex, Claude, and other coding agents.
 
-The export is valid only when it contains 250 unique tweet URLs with continuous indexes 1 through 250. The script enforces those checks.
+The export is valid only when every bookmark has a unique tweet URL and indexes are continuous from 1 through the current row count. The script enforces those checks.
 
 ## Refresh
 

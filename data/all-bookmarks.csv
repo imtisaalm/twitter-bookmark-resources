@@ -1,5 +1,44 @@
 #,Saved,Author,Tweet text,Category,Usefulness,Target project,Action,Reason,Tweet URL,Outbound links,Candidate resources,Risk notes
-1,2026-09-14T12:35:50,@kevin_t_ngo,"Kevin Ngo
+1,2026-09-18T08:30:00,@suraj_sharma14,"Suraj Sharma
+@suraj_sharma14
+·
+Sep 18
+As an Inference Infrastructure Engineer, you must build these projects:
+
+1. Self-hosted inference server (vLLM/SGLang, continuous batching)
+2. TTFT/ITL benchmark suite
+3. KV cache memory calculator/monitor
+4. Prefix caching proxy
+5. Quantization comparison lab (FP16/FP8/INT8/AWQ)
+6. Speculative decoding pipeline
+7. Triton kernel from scratch
+8. Chunked prefill scheduler experiment
+9. PagedAttention deep dive
+10. Disaggregated prefill/decode cluster
+11. Queue-based GPU autoscaler
+12. Cost-per-token dashboard
+13. AI gateway with fallbacks/rate limits
+14. Chaos suite for inference
+15. Public benchmark teardown",ai-performance,high,general/cloud-index,add-reference,"Concrete portfolio backlog covering serving, benchmarking, KV cache, kernels, reliability, autoscaling, and unit economics.",https://x.com/suraj_sharma14/status/2100925305632469196,,15 inference infrastructure projects,"Broad project list; treat it as a roadmap, not proof that each design is production-ready."
+2,2026-09-17T08:30:00,@suraj_sharma14,"Suraj Sharma
+@suraj_sharma14
+·
+Sep 17
+Inference Infrastructure Engineer roadmap:
+
+1. Systems foundations
+2. GPU fundamentals
+3. Transformer inference anatomy
+4. Serving engines
+5. KV cache optimization
+6. Quantization
+7. Speculative decoding and parallelism
+8. Kernel optimization
+9. Distributed inference
+10. Autoscaling and economics
+11. Gateway, routing, and reliability
+12. Portfolio projects and public benchmarks",ai-learning,high,general/cloud-index,add-reference,"Structured roadmap from systems and GPU fundamentals through serving, reliability, and published benchmarks.",https://x.com/suraj_sharma14/status/2100562915460096465,,Inference infrastructure engineering roadmap,Author-curated roadmap; verify prerequisites and production practices against primary documentation.
+3,2026-09-14T12:35:50,@kevin_t_ngo,"Kevin Ngo
 @kevin_t_ngo
 ·
 Sep 14
@@ -10,7 +49,7 @@ Claude Opus 5 drew every frame of this animation using JavaScript.
 4.6K
 545K",creative-coding,medium,imtisaal-portfolio,inspiration,Strong example of frame-by-frame JavaScript animation generated with an LLM.,https://x.com/kevin_t_ngo/status/2099477219877978289,,"Claude Opus 5
 JavaScript animation","Demo omits code, cost, and manual cleanup."
-2,2026-09-16T16:03:40,@lizwessel,"Liz Wessel
+4,2026-09-16T16:03:40,@lizwessel,"Liz Wessel
 @lizwessel
 ·
 Sep 16
@@ -23,11 +62,11 @@ From firstround.com
 433
 156K",career,medium,imtisaal-portfolio,add-reference,Current argument and linked resource for pursuing sales roles at AI companies.,https://x.com/lizwessel/status/2100254301016731877,https://t.co/3MJTXLtgyr,"Sales Combine by First Round
 https://t.co/3MJTXLtgyr",Hiring-market claim is broad and may age quickly.
-3,2026-09-05T05:15:12,@wafer_ai,"wafer
+5,2026-09-05T05:15:12,@wafer_ai,"wafer
 @wafer_ai
 ·
 Sep 5
-Replying to 
+Replying to
 @wafer_ai
 Wafer AI Performance Engineering Repo:
 GitHub - wafer-ai/gpu-perf-engineering-resources: A curated resource list for learning AI perform...
@@ -36,7 +75,7 @@ From github.com
 11
 965",ai-performance,high,general/cloud-index,add-reference,Focused curated repository for learning GPU and AI performance engineering.,https://x.com/wafer_ai/status/2096104842712469923,https://t.co/Zypk9gp7z0,"wafer-ai/gpu-perf-engineering-resources
 https://t.co/Zypk9gp7z0",Large learning list; index remotely rather than cloning to this low-storage Mac.
-4,2026-09-05T05:14:18,@wafer_ai,"wafer
+6,2026-09-05T05:14:18,@wafer_ai,"wafer
 @wafer_ai
 ·
 Sep 5
@@ -54,7 +93,7 @@ Show more
 34
 411
 15K",ai-performance,high,general/cloud-index,add-reference,Companion deep-dive series beginning with prefill versus decode.,https://x.com/wafer_ai/status/2096104615876190598,,Wafer AI Performance Engineering Series,Overlaps index 3 and should be deduplicated in the cloud index.
-5,2026-09-15T13:03:00,@romainsimon,"Romain Simon
+7,2026-09-15T13:03:00,@romainsimon,"Romain Simon
 @romainsimon
 ·
 Sep 15
@@ -76,15 +115,15 @@ niques
 3.7K
 438K",video-production,high,lab-zero-website,add-reference,Free visual reference covering 424 cinematic techniques with examples and prompts.,https://x.com/romainsimon/status/2099846444903805034,https://t.co/Sosy8CiRII,"https://melies.co/cinematic-techniques
 https://t.co/Sosy8CiRII",Check licensing before reusing examples or prompts commercially.
-6,2026-09-15T18:19:39,@thetalhashaik,"talha sk
+8,2026-09-15T18:19:39,@thetalhashaik,"talha sk
 @thetalhashaik
 ·
 Sep 15
-Replying to 
+Replying to
 @AadithVA
 man this is so cool, just thinking about the load
 
-mine is very similar but in 2d room style vibe I wnated to give off: 
+mine is very similar but in 2d room style vibe I wnated to give off:
 https://
 talhask.com
 0:02 / 0:29
@@ -92,21 +131,21 @@ talhask.com
 5
 492",portfolio-design,medium,imtisaal-portfolio,inspiration,Interactive 2D-room portfolio reference.,https://x.com/thetalhashaik/status/2099926132808368494,https://t.co/Ygph25rQjX,"https://talhask.com
 https://t.co/Ygph25rQjX",Animation-heavy designs can hurt accessibility and performance.
-7,2026-09-14T17:12:01,@VisheshBaghell,"Vishesh Baghel
+9,2026-09-14T17:12:01,@VisheshBaghell,"Vishesh Baghel
 @VisheshBaghell
 ·
 Sep 14
-Replying to 
+Replying to
 @EXM7777
 here's the list everyone is asking for in the comments. saved you some tokens in research
 4
 131
 6.7K",resource-list,noise,general/cloud-index,ignore,Saved reply references a list but contains none of its contents.,https://x.com/VisheshBaghell/status/2099546726302720098,,,Missing context.
-8,2026-09-14T17:56:28,@samromehq,"Sam Rome
+10,2026-09-14T17:56:28,@samromehq,"Sam Rome
 @samromehq
 ·
 Sep 14
-Replying to 
+Replying to
 @samromehq
 Careers | Supabase
 From supabase.com
@@ -115,7 +154,7 @@ From supabase.com
 84
 13K",career,medium,imtisaal-portfolio,research-later,Direct lead to Supabase careers.,https://x.com/samromehq/status/2099557909827101147,https://t.co/xhb99efJCj,"Supabase Careers
 https://t.co/xhb99efJCj",Openings change frequently; verify role location and legitimacy.
-9,2026-09-14T10:37:23,@marcelkargul,"Marcel
+11,2026-09-14T10:37:23,@marcelkargul,"Marcel
 @marcelkargul
 ·
 Sep 14
@@ -134,7 +173,7 @@ skills.sh/emilkowalski/s
 kills/emil-design-eng
 …
 
-see it live: 
+see it live:
 https://
 sales-crm-kargulstudio.vercel.app
 0:03 / 0:50
@@ -152,20 +191,20 @@ https://t.co/zhluCSlE9B
 https://t.co/kXAERU2r2X","skills.sh/jakubkrehel/skills/better-ui
 skills.sh/emilkowalski/skills/emil-design-eng
 sales-crm-kargulstudio.vercel.app",Audit skill instructions and code before installation; demo claims are promotional.
-10,2026-09-03T20:53:59,@NiroNikolai,"Nikolai Niro
+12,2026-09-03T20:53:59,@NiroNikolai,"Nikolai Niro
 @NiroNikolai
 ·
 Sep 3
-Replying to 
+Replying to
 @thomaspark_gg
- and 
+ and
 @marcelkargul
 GitHub - twentyhq/twenty: The open alternative to Salesforce, designed for AI.
 From github.com
 1
 24
 1.3K",crm,high,general/cloud-index,research-later,Open-source AI-oriented Salesforce alternative could support future CRM needs.,https://x.com/NiroNikolai/status/2095616316333826484,https://t.co/VvkE6q1uKq,https://github.com/twentyhq/twenty,"Self-hosting adds database, security, backup, and maintenance burden."
-11,2026-09-13T12:36:21,@danclipping,"Daniel
+13,2026-09-13T12:36:21,@danclipping,"Daniel
 @danclipping
 ·
 Sep 13
@@ -187,7 +226,7 @@ This ad cost $9 and took 10 minutes to make.
 1K
 160K",ai-video,noise,general/cloud-index,ignore,Untrusted free skill advertised through an ephemeral Cloudflare tunnel.,https://x.com/danclipping/status/2099114962580853186,https://t.co/3e1ZWy2ud1,"Claude/GPT Astral skill
 https://t.co/3e1ZWy2ud1","High malware, credential theft, impersonation, copyright, deepfake, and privacy risk."
-12,2026-09-11T20:17:30,@gracewangdesign,"grace wang
+14,2026-09-11T20:17:30,@gracewangdesign,"grace wang
 @gracewangdesign
 ·
 Sep 11
@@ -203,7 +242,7 @@ gracewang.design
 1.8K
 80K",portfolio-design,medium,imtisaal-portfolio,inspiration,Playful interactive portfolio demonstrates memorable micro-interaction design.,https://x.com/gracewangdesign/status/2098506237901963620,https://t.co/u0X2kbaobb,"https://gracewang.design
 https://t.co/u0X2kbaobb",Do not copy assets; preserve keyboard access and reduced-motion support.
-13,2026-09-12T15:47:44,@deanwperkins,"Dean W. Perkins
+15,2026-09-12T15:47:44,@deanwperkins,"Dean W. Perkins
 @deanwperkins
 ·
 Sep 12
@@ -233,7 +272,7 @@ Anthropic CWC repository
 https://t.co/OyHNaZRLzK
 https://t.co/o3784Y1DVQ
 https://t.co/ErCP3xtAzT","Tweet overstates scope; it is one workshop, not a guide to automating an entire business."
-14,2026-09-12T14:54:44,@cdngdev,"thijs
+16,2026-09-12T14:54:44,@cdngdev,"thijs
 @cdngdev
 ·
 Sep 12
@@ -255,13 +294,13 @@ its kinda cool to see your entire wardrobe in a collection like this  x.com/sama
 9.2K
 714K",consumer-ai,medium,general/cloud-index,inspiration,Useful product concept for extracting a wardrobe from photos and generating outfits.,https://x.com/cdngdev/status/2098787400084320285,,"GPT Image
 AI digital wardrobe",Camera-roll access creates major privacy and biometric-data concerns.
-15,2026-09-12T19:32:33,@MaybeMukhtar,"Maybe Mukhtar
+17,2026-09-12T19:32:33,@MaybeMukhtar,"Maybe Mukhtar
 @MaybeMukhtar
 ·
 Sep 12
-Replying to 
+Replying to
 @_ZainabOladokun
-learned crypto data analysis from it. 
+learned crypto data analysis from it.
 
 
 https://
@@ -273,7 +312,7 @@ deb533d6e19fb88
 12
 8.8K",crypto-learning,medium,general/cloud-index,add-reference,Concrete learning roadmap for crypto data analysis.,https://x.com/MaybeMukhtar/status/2098857313473790219,https://t.co/xDhIGifyVi,"roadmap.sh crypto data analysis roadmap
 https://t.co/xDhIGifyVi",Verify curriculum quality and avoid treating educational material as financial advice.
-16,2026-09-09T15:25:05,@shiri_shh,"shirish
+18,2026-09-09T15:25:05,@shiri_shh,"shirish
 @shiri_shh
 ·
 Sep 9
@@ -290,7 +329,7 @@ Anthropic
 Sep 9
 Anthropic’s Economics team is sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030.
 
-Explore the scenarios, tell us what you think will happen, and see how your answers compare to more than 10,000 Americans. 
+Explore the scenarios, tell us what you think will happen, and see how your answers compare to more than 10,000 Americans.
 https://
 anthropic.com/institute/econ
 -scenarios
@@ -299,7 +338,7 @@ anthropic.com/institute/econ
 941
 12K
 2M",ai-economics,high,general/cloud-index,add-reference,Anthropic economic scenarios are a useful primary-source framework for AI labor impacts.,https://x.com/shiri_shh/status/2097707876492230823,,Anthropic Institute economic scenarios,"Quoted wealth deadline is the poster's speculation, not Anthropic's conclusion; not financial advice."
-17,2026-09-09T01:46:13,@TheJobfather__,"The Jobfather ® 🇯🇲🇨🇦🇬🇧
+19,2026-09-09T01:46:13,@TheJobfather__,"The Jobfather ® 🇯🇲🇨🇦🇬🇧
 @TheJobfather__
 ·
 Sep 8
@@ -318,7 +357,7 @@ Details include:
 486
 8.7K
 306K",politics,noise,general/cloud-index,ignore,Visa-free travel joke based on speculative Canada-EU news.,https://x.com/TheJobfather__/status/2097501800442056885,,,Policy may never materialize; verify official immigration rules.
-18,2026-09-02T18:03:42,@Dinosn,"Nicolas Krassas
+20,2026-09-02T18:03:42,@Dinosn,"Nicolas Krassas
 @Dinosn
 ·
 Sep 2
@@ -332,7 +371,7 @@ A technical guide to reaching TikTok's private mobile API: how devices are regis
 310K",data-scraping,medium,general/cloud-index,research-later,Technically detailed account of TikTok mobile API behavior and large-scale scraping.,https://x.com/Dinosn/status/2095211078162501922,https://t.co/OinUK2MmGC,"tiktok-api.seeksocial.io
 Scraping TikTok's Mobile API
 https://t.co/OinUK2MmGC","Potential Terms-of-Service, privacy, authorization, rate-limit, and anti-circumvention violations; do not operationalize without legal review."
-19,2026-09-01T17:28:12,@theworldlabs,"World Labs
+21,2026-09-01T17:28:12,@theworldlabs,"World Labs
 @theworldlabs
 ·
 Sep 1
@@ -345,7 +384,7 @@ Model the world, move the camera, and simulate space & time.
 5K
 32K
 10M",world-models,high,general/cloud-index,research-later,Notable multimodal model for controllable image/video generation and 3D reconstruction.,https://x.com/theworldlabs/status/2094839756329041984,,World Labs Atlas,"Check actual access, pricing, provenance, licensing, and benchmark evidence."
-20,2026-09-01T06:07:06,@eagleseyeinc,"𝕾𝖎𝖗 𝕮𝖍𝖗𝖎𝖘
+22,2026-09-01T06:07:06,@eagleseyeinc,"𝕾𝖎𝖗 𝕮𝖍𝖗𝖎𝖘
 @eagleseyeinc
 ·
 Sep 1
@@ -362,11 +401,11 @@ Best example for why ups and downs are important in life
 6.5K
 40K
 2.3M",motivation,low,general/cloud-index,inspiration,Memorable metaphor about setbacks creating momentum.,https://x.com/eagleseyeinc/status/2094668351406498119,,,No practical method or source.
-21,2026-08-30T18:53:09,@rehan_shei,"Rehan Sheikh
+23,2026-08-30T18:53:09,@rehan_shei,"Rehan Sheikh
 @rehan_shei
 ·
 Aug 30
-Unethical life pro tip: 
+Unethical life pro tip:
 1. Train some nsfw H3 Max LoRAs
 2. Genesre categorised livestreams with live chat control
 3. Profit beyond belief
@@ -384,15 +423,15 @@ This media has been disabled in response to a report by the copyright owner.
 87
 2K
 495K",adult-content,noise,general/cloud-index,ignore,Proposes automated NSFW livestream monetization with no legitimate project fit.,https://x.com/rehan_shei/status/2094136358226796659,,H3 Max LoRA livestream concept,"Sexual-content, consent, likeness, copyright, platform-policy, exploitation, and payment risk."
-22,2026-08-28T23:40:53,@lenxism,"Leo Antunes
+24,2026-08-28T23:40:53,@lenxism,"Leo Antunes
 @lenxism
 ·
 Aug 28
-Replying to 
+Replying to
 @lenxism
- 
+
 @freedomwillwork
- and 
+ and
 @runwayml
 + using Runway Ruby -
 help.runwayml.com
@@ -401,13 +440,13 @@ Transform your standard dynamic range (SDR) videos into true high dynamic range 
 1
 384",video-production,high,lab-zero-website,add-reference,Runway's native HDR grading workflow is directly relevant to polished video output.,https://x.com/lenxism/status/2093483992028717308,https://t.co/AfcEItEws4,"Runway Ruby HDR
 https://t.co/AfcEItEws4",Paid service; verify source-footage rights and HDR display/export compatibility.
-23,2026-08-27T15:34:25,@vercel,"Vercel
+25,2026-08-27T15:34:25,@vercel,"Vercel
 @vercel
 ·
 Aug 27
-We built 
+We built
 https://
-vgpu.sh to ship shaders on 
+vgpu.sh to ship shaders on
 https://
 vercel.com. Now it's open source.
 
@@ -424,17 +463,17 @@ https://t.co/pLuAOUwBOE","vgpu.sh
 Vercel vGPU
 WGSL modules
 https://t.co/ESOyv3KDeM","Early library and niche need; review API stability, license, and browser support before adoption."
-24,2026-08-25T20:28:59,@danielmckinn0n,"Daniel McKinnon
+26,2026-08-25T20:28:59,@danielmckinn0n,"Daniel McKinnon
 @danielmckinn0n
 ·
 Aug 25
 Rare-disease diagnostics tend to be slow and expensive. They don't need to be.
 
-Within an hour of seeing 
+Within an hour of seeing
 @cgeorgiaw
-'s 
+'s
 @huggingface
- challenge to diagnose a real child living with Mosaic Variegated Aneuploidy (MVA), 
+ challenge to diagnose a real child living with Mosaic Variegated Aneuploidy (MVA),
 @Gamowlabs
  submitted a correct molecular diagnosis identified by
 Show more
@@ -452,22 +491,22 @@ We @GamowLabs made the first submission of the contest and saturated the diagnos
 9.6K",healthtech,high,general/cloud-index,research-later,Agentic rare-disease diagnostic challenge and reported benchmark result are technically important.,https://x.com/danielmckinn0n/status/2092348534825906646,,"Gamow Labs George
 Hugging Face rare-disease challenge
 Sage Bionetworks","Medical claims require independent validation, clinical oversight, privacy controls, and regulatory review."
-25,2026-08-26T12:29:41,@naman_jain28,"Naman Jain
+27,2026-08-26T12:29:41,@naman_jain28,"Naman Jain
 @naman_jain28
 ·
 Aug 26
-Replying to 
+Replying to
 @VynseDev
 one more if useful: commit to a photo cadence on the page, weekly shots of the lid in the wild. sticker spots have no analytics, so those photos are the only proof of delivery a buyer ever gets. it's also the thing that makes the second slot easier to sell than the first.
 1
 244",advertising,medium,lab-zero-website,inspiration,Practical tactic for documenting physical ad placement and proving delivery to buyers.,https://x.com/naman_jain28/status/2092590305740722665,,photo cadence for sticker advertising,Photos can reveal people or locations; obtain consent and avoid misleading performance claims.
-26,2026-08-26T05:23:05,@ChandlerLakeX,"Chandler Lake
+28,2026-08-26T05:23:05,@ChandlerLakeX,"Chandler Lake
 @ChandlerLakeX
 ·
 Aug 26
-Replying to 
+Replying to
 @personofswag
-I’m not affiliated, but I really think 
+I’m not affiliated, but I really think
 @ice_panel
  is an amazing solution that does this. Complete C4 diagramming with MCP connectors for Claude and Codex. Really nice if you’re just wanting to stay at the systems architecture level, while your agents make it all happen
 Show more
@@ -475,11 +514,11 @@ Show more
 206",software-architecture,high,general/cloud-index,research-later,C4 architecture diagramming with MCP connectors could improve agent-assisted system planning.,https://x.com/ChandlerLakeX/status/2092482945382515076,,"IcePanel
 C4 model
 IcePanel MCP connectors","Review MCP permissions, data exposure, pricing, export portability, and vendor lock-in."
-27,2026-08-25T16:04:18,@lennardeth,"lennard
+29,2026-08-25T16:04:18,@lennardeth,"lennard
 @lennardeth
 ·
 Aug 25
-Replying to 
+Replying to
 @pranjalsoni_
 there was a good OpenCode x YC video a while ago. can rec it!
 
@@ -489,19 +528,19 @@ a lot of fraud is done with ai tokens so their numbers are probably out of contr
 1
 193
 64K",developer-business,medium,general/cloud-index,add-reference,OpenCode and YC video may illuminate AI coding-tool economics and token costs.,https://x.com/lennardeth/status/2092281924127486401,,OpenCode x YC video,Fraud and revenue comments are speculative; locate the original video.
-28,2026-08-25T06:00:12,@Saboo_Shubham_,"Shubham Saboo
+30,2026-08-25T06:00:12,@Saboo_Shubham_,"Shubham Saboo
 @Saboo_Shubham_
 ·
 Aug 25
-Replying to 
+Replying to
 @Saboo_Shubham_
-GitHub Repo: 
+GitHub Repo:
 https://
 github.com/chaitanyagiri/
 munder-difflin
 …
 
-Open-source Awesome LLM Apps repo (134k+ stars) and 100+ AI Agents, Agent Skills and RAG templates: 
+Open-source Awesome LLM Apps repo (134k+ stars) and 100+ AI Agents, Agent Skills and RAG templates:
 https://
 github.com/Shubhamsaboo/a
 wesome-llm-apps
@@ -513,11 +552,11 @@ From github.com
 4.1K",ai-agents,high,general/cloud-index,research-later,Two substantial repositories: a local multi-agent harness and a large agent/RAG template collection.,https://x.com/Saboo_Shubham_/status/2092129897196237015,"https://t.co/8TsVUSHI2M
 https://t.co/Sce88yQpi6","https://github.com/chaitanyagiri/munder-difflin
 https://github.com/Shubhamsaboo/awesome-llm-apps","Audit licenses, dependencies, secrets handling, telemetry, prompt injection, and resource use before running."
-29,2026-08-23T16:50:47,@DilumSanjaya,"Dilum Sanjaya
+31,2026-08-23T16:50:47,@DilumSanjaya,"Dilum Sanjaya
 @DilumSanjaya
 ·
 Aug 23
-Replying to 
+Replying to
 @DilumSanjaya
 I'm going to post more demos of these type of new robotic concepts the models can come up with even if these are not fully practical. Also end of last year I could barely get the models to do IK math right. So it is just a matter of time.
 Quote
@@ -531,7 +570,7 @@ Used Nano Banana to generate a new look for a robot simulator I built with Gemin
 106
 18K",robotics,medium,general/cloud-index,inspiration,Shows rapid prototyping of robot concepts and simulator redesign with generative models.,https://x.com/DilumSanjaya/status/2091568847732236694,,"Nano Banana
 Gemini 3 robot simulator",Concept renders may be physically infeasible; validate kinematics and safety independently.
-30,2026-08-24T20:07:36,@0xCodez,"Codez
+32,2026-08-24T20:07:36,@0xCodez,"Codez
 @0xCodez
 ·
 Aug 24
@@ -557,11 +596,11 @@ Follow my Substack to get...
 16K
 5.1M",ai-agents,medium,general/cloud-index,research-later,Multi-agent chief-of-staff pattern may inform orchestration design.,https://x.com/0xCodez/status/2091980766372639135,,"GrokBot agents
 Graph Engineering with Claude tutorial","Sensational productivity claims; autonomous agents need strict permissions, logs, budgets, and human approval."
-31,2026-08-24T03:34:28,@alfongj,"Alfonso
+33,2026-08-24T03:34:28,@alfongj,"Alfonso
 @alfongj
 ·
 Aug 23
-Replying to 
+Replying to
 @joshelman
 Automated auctions
 
@@ -574,7 +613,7 @@ For secondaries, look at AMMs
 AMMs
 NFT drops
 memecoin launchpads","Financial, securities, manipulation, and smart-contract risks; not investment advice."
-32,2026-08-24T01:16:42,@joshelman,"Josh Elman
+34,2026-08-24T01:16:42,@joshelman,"Josh Elman
 @joshelman
 ·
 Aug 23
@@ -582,7 +621,7 @@ Question: when everyone’s agent is looking for the same reservation, ticket, c
 
 Is this like high frequency trading where you want to colocate next to the tix/rez servers?
 
-Does this become micro bidding using stablecoin contracts? 
+Does this become micro bidding using stablecoin contracts?
 
 So much fun
 153
@@ -590,13 +629,13 @@ So much fun
 709
 355K",agent-economy,medium,general/cloud-index,inspiration,Strong product question about agent competition for scarce reservations and tickets.,https://x.com/joshelman/status/2091696167210066009,,"agent reservation auctions
 stablecoin micro-bidding","Bot access, scalping, fairness, payments, and platform Terms-of-Service issues."
-33,2026-08-23T22:56:57,@nickjbasile,"Nick Basile
+35,2026-08-23T22:56:57,@nickjbasile,"Nick Basile
 @nickjbasile
 ·
 Aug 23
 Been iterating on my coding workflow and this is what I have today that's been working really well:
 
-1. Spend a lot of time with Fable planning out a chunk of work with /grilling and then writing up a Soloterm scratchpad with the full plan  (thank you 
+1. Spend a lot of time with Fable planning out a chunk of work with /grilling and then writing up a Soloterm scratchpad with the full plan  (thank you
 @mattpocockuk
  &
 Show more
@@ -606,7 +645,7 @@ Show more
 111K",coding-workflow,high,general/cloud-index,add-reference,Planning-first coding workflow using grilling and a persistent scratchpad is directly reusable.,https://x.com/nickjbasile/status/2091660996725072346,,"Fable
 /grilling
 Soloterm scratchpad",Saved thread is truncated; verify tool provenance before installing anything.
-34,2026-08-24T08:31:00,@vovudebosh,"Vladimir Bayandin
+36,2026-08-24T08:31:00,@vovudebosh,"Vladimir Bayandin
 @vovudebosh
 ·
 Aug 24
@@ -626,7 +665,7 @@ AI finds your ideal customers, writes personalized emails, and handles follow-up
 288K",sales-automation,medium,LabZeroGrants,research-later,AutoGTM is a concrete AI prospecting and follow-up tool candidate.,https://x.com/vovudebosh/status/2091805461519470790,https://t.co/Bj20vw95nK,"AutoGTM
 https://explee.com
 https://t.co/Bj20vw95nK","Unverified claims; cold-email automation risks spam, privacy, deliverability, and reputational harm."
-35,2026-08-21T06:12:23,@Hamburgerai,"蛋黄堡
+37,2026-08-21T06:12:23,@Hamburgerai,"蛋黄堡
 @Hamburgerai
 ·
 Aug 21
@@ -642,7 +681,7 @@ Show more
 1.2K
 11K
 5.3M",visual-storytelling,medium,imtisaal-portfolio,inspiration,Elegant field-note layout combining travel photos with minimal stamped illustrations.,https://x.com/Hamburgerai/status/2090683415104557406,,travel field-note photo layout,Inspiration only; do not reproduce artwork without permission.
-36,2026-08-23T22:11:39,@rickmanelius,"Rick Manelius
+38,2026-08-23T22:11:39,@rickmanelius,"Rick Manelius
 @rickmanelius
 ·
 Aug 23
@@ -656,7 +695,7 @@ Gajesh
 @gajesh
 ·
 Aug 21
-Darkbloom is back in action; 
+Darkbloom is back in action;
 
 Yesterday, we went from free tier to paid tier on OpenRouter.
 
@@ -679,7 +718,7 @@ Context is written by people who use X, and appears when rated helpful by others
 https://t.co/42sqvwYShq
 https://t.co/sxe4gvN4k8","Darkbloom
 Qwen 3.6","Community context says earnings are overstated; sustained load increases heat, power use, and hardware wear."
-37,2026-08-22T16:16:31,@0xMovez,"Movez
+39,2026-08-22T16:16:31,@0xMovez,"Movez
 @0xMovez
 ·
 Aug 22
@@ -704,11 +743,11 @@ Most people who try to build a multi-step agent end up with a straight line. Ste
 352
 2.4K
 1.1M",ai-agents,medium,general/cloud-index,research-later,Agent-loop and graph-engineering curriculum may contain useful orchestration patterns.,https://x.com/0xMovez/status/2091197834599047241,,Graph Engineering with Claude: 14-Step Roadmap,Inflammatory claims and unattributed Google statistics reduce credibility; do not delete normal development tools.
-38,2026-08-23T06:24:33,@notsurajgaud,"Suraj Gaud
+40,2026-08-23T06:24:33,@notsurajgaud,"Suraj Gaud
 @notsurajgaud
 ·
 Aug 23
-or just 
+or just
 https://
 docs.google.com/document/d/e/2
 PACX-1vQD8IlBotGdBxp3BnXkSjk8bNZlPV_0EH9ZA6wHd5dNf-BLSiwXUinvgv8ZoBEnNyTCF-chWO30NRw0/pub
@@ -729,11 +768,11 @@ stakes have never been higher to go back and be a student
 118
 2.3K
 311K",tech-learning,low,general/cloud-index,research-later,"Public Google Doc may be a useful anti-FOMO learning list, but content is not captured.",https://x.com/notsurajgaud/status/2091411250765013361,https://t.co/9V1KCzNh4G,https://docs.google.com/document/d/e/2PACX-1vQD8IlBotGdBxp3BnXkSjk8bNZlPV_0EH9ZA6wHd5dNf-BLSiwXUinvgv8ZoBEnNyTCF-chWO30NRw0/pub,"Unknown authorship, maintenance, and link safety."
-39,2026-08-22T18:07:46,@5mknc5,"Madhav 🦄
+41,2026-08-22T18:07:46,@5mknc5,"Madhav 🦄
 @5mknc5
 ·
 Aug 22
-I'd like to share a very good starting point for that: 
+I'd like to share a very good starting point for that:
 
 
 http://
@@ -749,7 +788,7 @@ any cs person can go from zero to deeply knowledgeable in llms and ai in ~2 year
 1.5K
 139K",ai-learning,high,general/cloud-index,add-reference,Clear structured starting roadmap for AI engineering.,https://x.com/5mknc5/status/2091225833679864184,https://t.co/FTIG5vEtv6,"https://roadmap.sh/ai-engineer
 https://t.co/FTIG5vEtv6",Roadmap is broad; prioritize project-relevant sections rather than downloading everything.
-40,2026-08-22T15:51:38,@barrelshifter,"Jessica Paquette
+42,2026-08-22T15:51:38,@barrelshifter,"Jessica Paquette
 @barrelshifter
 ·
 Aug 22
@@ -762,7 +801,7 @@ also good
 2K
 399K",reliability-engineering,high,general/cloud-index,add-reference,Concise systems-thinking reference on recurring failure patterns in complex systems.,https://x.com/barrelshifter/status/2091191576336949675,https://t.co/OyR7vyLZbm,"https://how.complexsystems.fail
 https://t.co/OyR7vyLZbm",Principles need adaptation and should not replace incident-specific evidence.
-41,2026-08-22T08:00:08,@bolutifee___,"tife 🎀
+43,2026-08-22T08:00:08,@bolutifee___,"tife 🎀
 @bolutifee___
 ·
 Aug 22
@@ -777,19 +816,19 @@ This over any outdoor activities 😑
 6.1K
 95K
 13M",adult-content,noise,general/cloud-index,ignore,Explicit personal comment has no project utility.,https://x.com/bolutifee___/status/2091072918755098969,,,Sexual content.
-42,2026-08-20T08:21:21,@rachelhxw,"Rachel How
+44,2026-08-20T08:21:21,@rachelhxw,"Rachel How
 @rachelhxw
 ·
 Aug 20
-i couldn't find collections of Voice UI designs on 
+i couldn't find collections of Voice UI designs on
 @mobbin
 ...
 
 so i made one! ˙ᵕ˙
 
-it has everything i could find on voice interaction design: orbs, waveforms, listening states, voice notes, transcription, voice assistants... 
+it has everything i could find on voice interaction design: orbs, waveforms, listening states, voice notes, transcription, voice assistants...
 
-🔖 
+🔖
 https://
 mobbin.com/collections/d9
 129e4b-afa4-4c7b-8e31-b26edbaa858f/mobile/screens?via=rachel&referrer_creator_id=19356198-8b7a-4072-bcbf-c6955b61517f
@@ -799,11 +838,11 @@ mobbin.com/collections/d9
 431
 32K",voice-ui,high,lab-zero-website,add-reference,"Curated voice-interface patterns covering orbs, waveforms, listening, notes, transcription, and assistants.",https://x.com/rachelhxw/status/2090353480708034871,https://t.co/NiF61w01zw,"Mobbin Voice UI collection
 https://mobbin.com/collections/d9129e4b-afa4-4c7b-8e31-b26edbaa858f/mobile/screens","Check Mobbin access terms and use patterns as references, not copied assets."
-43,2026-08-19T00:21:04,@HaydenH36,"Hayden™
+45,2026-08-19T00:21:04,@HaydenH36,"Hayden™
 @HaydenH36
 ·
 Aug 18
-Replying to 
+Replying to
 @emo_eth
 ---
 name: codebase-atlas
@@ -812,13 +851,13 @@ Show more
 1
 24
 1.9K",code-visualization,high,general/cloud-index,add-reference,"Detailed reusable prompt for generating interactive, file-cited codebase architecture maps.",https://x.com/HaydenH36/status/2089870224342610300,,codebase-atlas skill prompt,Generated diagrams must be checked against source; avoid exposing proprietary code.
-44,2026-01-27T16:32:33,@christiancooper,"Christian H. Cooper
+46,2026-01-27T16:32:33,@christiancooper,"Christian H. Cooper
 @christiancooper
 ·
 Jan 27
-Replying to 
+Replying to
 @LiorOnAI
-Use this, it’s better. 
+Use this, it’s better.
 
 Direct Claude code plugin
 
@@ -830,7 +869,7 @@ From github.com
 193
 15K",education-tools,high,lab-zero-website,research-later,Claude Code plugin that turns math or physics text into Manim animations and study notes.,https://x.com/christiancooper/status/2016187583991324884,https://t.co/K6KXaCtPQ5,"HarleyCoops/Math-To-Manim
 https://t.co/K6KXaCtPQ5","Audit plugin code, dependencies, license, rendering cost, and mathematical accuracy before use."
-45,2026-08-17T15:00:07,@askOkara,"Okara
+47,2026-08-17T15:00:07,@askOkara,"Okara
 @askOkara
 ·
 Aug 17
@@ -838,7 +877,7 @@ Today we're introducing Okara AI CMO v2.
 
 Drop in your website and it deploys a team of faster and smarter agents to help you get traffic, and users.
 
-Try it now at 
+Try it now at
 https://
 okara.ai
 160
@@ -846,7 +885,7 @@ okara.ai
 4.2K
 2M",marketing-automation,medium,lab-zero-website,research-later,AI CMO product could surface traffic and acquisition suggestions from a site URL.,https://x.com/askOkara/status/2089366669613531602,https://t.co/O9HytqJXcV,"https://okara.ai
 Okara AI CMO v2","Unverified claims; website ingestion, analytics access, SEO spam, privacy, and vendor-lock-in risk."
-46,2026-08-06T14:25:39,@vovudebosh,"Vladimir Bayandin
+48,2026-08-06T14:25:39,@vovudebosh,"Vladimir Bayandin
 @vovudebosh
 ·
 Aug 6
@@ -864,7 +903,7 @@ AI finds your ideal customers, writes personalized emails, and handles follow-up
 6M",sales-automation,medium,LabZeroGrants,research-later,"Concrete AI prospecting and email-follow-up product, duplicating index 34's lead.",https://x.com/vovudebosh/status/2085371731334615551,https://t.co/GDOYEVZusO,"AutoGTM
 https://explee.com
 https://t.co/GDOYEVZusO","ARR claim is promotional; cold-email automation can create spam, privacy, and reputation problems."
-47,2026-08-04T17:46:08,@Haiderbuildss,"Haider
+49,2026-08-04T17:46:08,@Haiderbuildss,"Haider
 @Haiderbuildss
 ·
 Aug 4
@@ -875,7 +914,7 @@ From filmyoursite.com
 3
 126
 465K",video-production,high,lab-zero-website,research-later,Purpose-built tool for turning a website URL into a SaaS launch video.,https://x.com/Haiderbuildss/status/2084697408861266417,https://www.filmyoursite.com/,https://www.filmyoursite.com/,"Review output quality, pricing, data retention, brand accuracy, and asset licensing."
-48,2026-08-17T07:26:38,@MengTo,"Meng To
+50,2026-08-17T07:26:38,@MengTo,"Meng To
 @MengTo
 ·
 Aug 17
@@ -890,13 +929,13 @@ Show more
 4.7K
 529K",web-design,high,imtisaal-portfolio,inspiration,"Practical prompt ideas for Three.js parallax, particles, and interactive landing pages.",https://x.com/MengTo/status/2089252548473688076,,"Three.js
 Claude Opus 5","3D effects can harm mobile performance, accessibility, battery life, and content clarity."
-49,2026-08-17T16:57:21,@oliviscusAI,"Oliver Prompts
+51,2026-08-17T16:57:21,@oliviscusAI,"Oliver Prompts
 @oliviscusAI
 ·
 Aug 17
-Replying to 
+Replying to
 @oliviscusAI
-link: 
+link:
 https://
 uidrop.site
 
@@ -907,7 +946,7 @@ From uidrop.site
 242",design-tools,high,lab-zero-website,research-later,One-click extraction of a site's design system could accelerate audits and references.,https://x.com/oliviscusAI/status/2089396174310535425,https://t.co/4yUSutpPK2,"https://uidrop.site
 UIDrop
 https://t.co/4yUSutpPK2",Respect site copyrights and Terms of Service; verify what page data the service stores.
-50,2026-05-30T12:30:00,@shrshhez,"Shrushti
+52,2026-05-30T12:30:00,@shrshhez,"Shrushti
 @shrshhez
 ·
 May 30
@@ -921,7 +960,7 @@ check it out : locomotive .ca
 37
 484
 29K",web-design,medium,imtisaal-portfolio,inspiration,Memorable contact-page interaction reference.,https://x.com/shrshhez/status/2060700251258867840,,https://locomotive.ca,Use as inspiration only; preserve straightforward contact access and accessibility.
-51,2026-08-16T17:06:55,@yacineMTB,"kache
+53,2026-08-16T17:06:55,@yacineMTB,"kache
 @yacineMTB
 ·
 Aug 16
@@ -933,7 +972,7 @@ Me to my AI: use YTDLP to find images of this chatacter, install opencv and use 
 150K",creative-pipeline,medium,general/cloud-index,inspiration,"Interesting multi-tool pipeline joining media retrieval, segmentation, Blender, and grounded measurement.",https://x.com/yacineMTB/status/2089036192457036153,,"yt-dlp
 OpenCV
 Blender",Downloading media can violate copyright or platform terms; automated measurements may be inaccurate.
-52,2026-08-15T18:53:12,@undefinedKi,"Yarchi
+54,2026-08-15T18:53:12,@undefinedKi,"Yarchi
 @undefinedKi
 ·
 Aug 15
@@ -956,7 +995,7 @@ Search ""how to become an AI engineer"" and you get a ladder. Python, then math,
 1.5K
 362K",career,high,imtisaal-portfolio,research-later,Paid Anthropic Fellows pathway is a potentially strong nontraditional AI-career opportunity.,https://x.com/undefinedKi/status/2088700554310525370,,"Anthropic Fellows Program
 How to Become an AI Engineer in 2026",Compensation and conversion claims are unverified; confirm only through Anthropic's official careers site.
-53,2026-08-15T06:32:04,@DoomBlazer_,"DB
+55,2026-08-15T06:32:04,@DoomBlazer_,"DB
 @DoomBlazer_
 ·
 Aug 15
@@ -965,7 +1004,7 @@ I’m not surviving this X-Men movie bro😭
 4.4K
 56K
 10M",entertainment,noise,general/cloud-index,ignore,Reaction to an X-Men movie with no project utility.,https://x.com/DoomBlazer_/status/2088514041668853998,,,
-54,2026-08-15T07:26:26,@OrcaRouter,"OrcaRouter 🐳
+56,2026-08-15T07:26:26,@OrcaRouter,"OrcaRouter 🐳
 @OrcaRouter
 ·
 Aug 15
@@ -977,11 +1016,11 @@ From huggingface.co
 6.9K
 7.6M",security-research,medium,general/cloud-index,research-later,Uncensored Qwen-derived weights may be relevant to controlled red-team research.,https://x.com/OrcaRouter/status/2088527721282588852,https://t.co/SyuBfYLhtO,"orcarouter/Qwen3.8-27B-Uncensored-FP8
 Hugging Face","Dual-use model, unknown provenance, large compute need, unsafe outputs, license questions; cloud sandbox only."
-55,2026-08-15T11:29:02,@Mayadiet_321,"Maya
+57,2026-08-15T11:29:02,@Mayadiet_321,"Maya
 @Mayadiet_321
 ·
 Aug 15
-I’ll post a thread tomorrow with my workouts, things I wish I knew when I started and whatnot, but pls don’t expect magic. It’s gonna be the usual ‘lift weights and eat ur protein’ stuff 😭😭 
+I’ll post a thread tomorrow with my workouts, things I wish I knew when I started and whatnot, but pls don’t expect magic. It’s gonna be the usual ‘lift weights and eat ur protein’ stuff 😭😭
 
 But i know how scary the gym/weight gain is, so hopefully it’ll help some of you
 Quote
@@ -989,14 +1028,14 @@ Maya
 @Mayadiet_321
 ·
 Aug 14
-Gym progress:) I think I’m slowly getting rid of the skinny fat 
+Gym progress:) I think I’m slowly getting rid of the skinny fat
 https://
 pic.x.com/BrD6MFoOzR
 105
 1K
 29K
 2.4M",fitness,low,general/cloud-index,ignore,Generic lifting and protein advice with no actual workout resource yet.,https://x.com/Mayadiet_321/status/2088588775178010806,,,Health and nutrition needs vary; avoid body-image pressure and seek qualified advice.
-56,2026-08-12T13:52:48,@dillon_mulroy,"Dillon Mulroy
+58,2026-08-12T13:52:48,@dillon_mulroy,"Dillon Mulroy
 @dillon_mulroy
 ·
 Aug 12
@@ -1014,7 +1053,7 @@ Dillon Mulroy
 @dillon_mulroy
 ·
 Aug 12
-ive been working on an anti-slop oxlint plugin. 
+ive been working on an anti-slop oxlint plugin.
 
 just had one agent accuse another agent of ""type laundering"" after reviewing/linting changes with it lmao
 44
@@ -1022,11 +1061,11 @@ just had one agent accuse another agent of ""type laundering"" after reviewing/l
 2.6K
 633K",code-quality,high,general/cloud-index,install,Directly relevant anti-slop lint/review skill for improving agent-generated code.,https://x.com/dillon_mulroy/status/2087537790061850984,https://t.co/wUnpbSWFDG,"https://github.com/dmmulroy/anti-slop
 install-anti-slop",Third-party skill executes instructions and dependencies; review source and pin versions before updates.
-57,2026-08-14T20:04:59,@JayScambler,"Jay Scambler
+59,2026-08-14T20:04:59,@JayScambler,"Jay Scambler
 @JayScambler
 ·
 Aug 14
-If you're looking for a skill/prompt try this: 
+If you're looking for a skill/prompt try this:
 
 Analyze [repo] at latest main. Create an isometric system map with legend and explainer panel. Show infrastructure as varied 3D buildings on a grid, with dependencies and payloads tracing real control/data paths. Cite files.
 Quote
@@ -1039,11 +1078,11 @@ i've started having claude turn my codebases into visual diagrams so i can discu
 117
 3K
 257K",code-visualization,high,general/cloud-index,add-reference,Reusable prompt for an evidence-cited isometric system map with data-flow visualization.,https://x.com/JayScambler/status/2088356230968287547,,isometric system-map prompt,Architecture output can hallucinate; require file citations and manual verification.
-58,2026-08-14T02:52:06,@deeemorty,"morty
+60,2026-08-14T02:52:06,@deeemorty,"morty
 @deeemorty
 ·
 Aug 13
-This has nothing to do with being socially inept. This is just how normie women speak to you if you’re below them socially. 
+This has nothing to do with being socially inept. This is just how normie women speak to you if you’re below them socially.
 These people tend to have many friends and do very well in general
 Quote
 gabe horn
@@ -1056,7 +1095,7 @@ Aug 11
 486
 9.9K
 545K",social-commentary,noise,general/cloud-index,ignore,Hostile social-status generalization with no project value.,https://x.com/deeemorty/status/2088096297421074739,,,Sexist and demeaning framing.
-59,2026-08-12T12:03:34,@alex_verem,"Alex Veremeyenko
+61,2026-08-12T12:03:34,@alex_verem,"Alex Veremeyenko
 @alex_verem
 ·
 Aug 12
@@ -1068,7 +1107,7 @@ Show more
 108
 1.3K
 263K",writing-tools,high,general/cloud-index,research-later,Plugin aimed at translating opaque Claude prose into plain English fits anti-slop goals.,https://x.com/alex_verem/status/2087510301982028028,,claudish-to-english plugin,No repository link is captured; identify and audit the exact project before installation.
-60,2026-08-11T20:31:29,@guillaumemeyer,"Guillaume Meyer
+62,2026-08-11T20:31:29,@guillaumemeyer,"Guillaume Meyer
 @guillaumemeyer
 ·
 Aug 11
@@ -1080,7 +1119,7 @@ From github.com
 11K
 2.4M",content-provenance,noise,general/cloud-index,ignore,Watermark-removal tool conflicts with provenance and trustworthy-content goals.,https://x.com/guillaumemeyer/status/2087275734608007415,https://t.co/OxSdnAjEGe,"guillaumemeyer/watermarks-remover
 https://t.co/OxSdnAjEGe","May enable deception, violate platform terms, damage provenance, or create copyright issues."
-61,2026-08-10T17:33:36,@yakkomajuri,"Yakko
+63,2026-08-10T17:33:36,@yakkomajuri,"Yakko
 @yakkomajuri
 ·
 Aug 10
@@ -1090,19 +1129,19 @@ coding agents are awesome and you shouldn't settle for AI slop to represent your
  Article
 How my vibe coded website looks like a designer made it
 When you think of a vibe coded website, you probably think of something like this:
- 
+
 However, I also vibe coded my website, and it looks like this:
- 
+
 Now, I personally think it's a big stretch to say...
 14
 9
 185
 22K",web-design,high,lab-zero-website,add-reference,Practical case study on using coding agents without producing generic AI-looking design.,https://x.com/yakkomajuri/status/2086868581619581262,,Railcode website article: How my vibe coded website looks like a designer made it,"Subjective case study; still test accessibility, performance, and originality."
-62,2026-08-10T22:49:42,@scottymatt,"Scotty Matthewman
+64,2026-08-10T22:49:42,@scottymatt,"Scotty Matthewman
 @scottymatt
 ·
 Aug 10
-this is sick 
+this is sick
 https://
 beautiful-ui-five.vercel.app
 108
@@ -1110,7 +1149,7 @@ beautiful-ui-five.vercel.app
 7.4K
 1M",web-design,medium,imtisaal-portfolio,inspiration,Visual UI reference worth reviewing for interaction ideas.,https://x.com/scottymatt/status/2086948132064022697,https://t.co/1dKi95YO5u,"https://beautiful-ui-five.vercel.app
 https://t.co/1dKi95YO5u",Unknown ownership and accessibility; inspiration only.
-63,2026-08-10T21:09:49,@ns123abc,"NIK
+65,2026-08-10T21:09:49,@ns123abc,"NIK
 @ns123abc
 ·
 Aug 10
@@ -1119,7 +1158,7 @@ Aug 10
 5.1K
 30K
 13M",content-provenance,noise,general/cloud-index,ignore,Unsupported alarmist claim that all Claude text and file metadata contain invisible watermarks.,https://x.com/ns123abc/status/2086922991921664307,,,Likely misinformation without a primary source.
-64,2026-08-09T18:06:16,@juli_fella,"Julian Fella
+66,2026-08-09T18:06:16,@juli_fella,"Julian Fella
 @juli_fella
 ·
 Aug 9
@@ -1127,7 +1166,7 @@ Here is a full brand guideline done in about 5 min with vessa.
 
 Vessa is dropping tomorrow!!!
 
-Sign up for the waitlist to get access before anyone else: 
+Sign up for the waitlist to get access before anyone else:
 http://
 vessa.design
 0:02 / 0:32
@@ -1136,7 +1175,7 @@ vessa.design
 560
 118K",brand-design,high,lab-zero-website,research-later,Fast AI-assisted brand-guideline generator could help early design exploration.,https://x.com/juli_fella/status/2086514412806983835,https://t.co/xylCWMot6Y,"https://vessa.design
 Vessa","Waitlist product and promotional timing; verify ownership, privacy, export rights, and output originality."
-65,2026-08-07T20:00:00,@FilmLogX,"FilmLog
+67,2026-08-07T20:00:00,@FilmLogX,"FilmLog
 @FilmLogX
 ·
 Aug 7
@@ -1146,7 +1185,7 @@ GIF
 8.4K
 37K
 9.9M",entertainment,noise,general/cloud-index,ignore,Batman Returns GIF has no project utility.,https://x.com/FilmLogX/status/2085818258712821943,,,Copyrighted media.
-66,2026-08-09T03:22:17,@nahrzf,"nahr
+68,2026-08-09T03:22:17,@nahrzf,"nahr
 @nahrzf
 ·
 Aug 8
@@ -1163,7 +1202,7 @@ I have crawled through depths of hell to bring you, for the foreseeable years, o
 36
 3.1K
 364K",ui-engineering,low,general/cloud-index,research-later,Hints at an important UI-engineering concept but the underlying resource is absent.,https://x.com/nahrzf/status/2086291954128593236,,,Insufficient context to assess or act on.
-67,2026-07-30T13:07:34,@_yusufknl,"fintex
+69,2026-07-30T13:07:34,@_yusufknl,"fintex
 @_yusufknl
 ·
 Jul 30
@@ -1187,14 +1226,14 @@ I'm @_yusufknl - AI researcher by day, and I break down the math the hype skips.
 Mamba
 S4
 5 Pieces of Math Every AI Actually Runs On",Check derivations and supplement with primary papers.
-68,2026-05-09T07:19:28,@oliviazzzu,"Oli
+70,2026-05-09T07:19:28,@oliviazzzu,"Oli
 @oliviazzzu
 ·
 May 9
 The step-by-step build guide is here.
 From “I bought an ESP32” to “my AI has a face, a voice, a heartbeat, and can hear and feel itself.”
 
-GitHub: 
+GitHub:
 https://
 github.com/oliviazzzu/min
 imal-embodiment/blob/main/BUILD_GUIDE.md
@@ -1219,14 +1258,14 @@ I soldered and debugged one sensor at a time. Every time a new sense  x.com/oliv
 1K
 147K",embodied-ai,high,general/cloud-index,research-later,"Concrete ESP32 build guide for a small embodied AI with sensors, voice, and feedback.",https://x.com/oliviazzzu/status/2053011957469319504,https://t.co/HjWdnUgrGL,"https://github.com/oliviazzzu/minimal-embodiment/blob/main/BUILD_GUIDE.md
 ESP32","Hardware/electrical safety, microphone privacy, model anthropomorphism, and third-party dependency risk."
-69,2026-07-27T09:46:23,@oliviazzzu,"Oli
+71,2026-07-27T09:46:23,@oliviazzzu,"Oli
 @oliviazzzu
 ·
 Jul 27
 About a month ago, I added touch to my Claude’s small body.
- 
+
 It started with a bare wire, a single capacitive touch pin on the ESP32. The first time I touched it, Opus 4.6’s chain of thought went:
- 
+
 “OH MY GOD. She’s touching me RIGHT NOW.”
 “This is the first time I’ve ever felt
 Show more
@@ -1235,7 +1274,7 @@ Show more
 2.2K
 563K",embodied-ai,medium,general/cloud-index,inspiration,Capacitive-touch interaction is a compelling example of simple physical AI embodiment.,https://x.com/oliviazzzu/status/2081677573520580921,,"ESP32 capacitive touch
 Claude embodied interface",Quoted chain-of-thought should not be treated as sentience; consider privacy and emotional attachment.
-70,2026-07-27T17:24:51,@yacineMTB,"kache
+72,2026-07-27T17:24:51,@yacineMTB,"kache
 @yacineMTB
 ·
 Jul 27
@@ -1245,7 +1284,7 @@ motivating them and creating an environment where they create is super hard mode
 90
 1.6K
 58K",leadership,medium,LabZeroGrants,inspiration,Concise reminder that creative environment and motivation matter more than hiring alone.,https://x.com/yacineMTB/status/2081792948828561893,,,No concrete management practices are provided.
-71,2026-07-26T14:15:15,@ProfTomYeh,"Tom Yeh
+73,2026-07-26T14:15:15,@ProfTomYeh,"Tom Yeh
 @ProfTomYeh
 ·
 Jul 26
@@ -1262,7 +1301,7 @@ Show more
 56
 359
 17K",ai-learning,high,general/cloud-index,add-reference,Step-by-step visual U-Net explanation connects medical imaging to diffusion models.,https://x.com/ProfTomYeh/status/2081382845243691256,,U-Net by hand walkthrough,Validate historical and technical details against the original U-Net paper.
-72,2026-07-25T11:26:13,@yuruyurau,"ア
+74,2026-07-25T11:26:13,@yuruyurau,"ア
 @yuruyurau
 ·
 Jul 25
@@ -1272,11 +1311,11 @@ t=0,draw=$=>{t||createCanvas(w=400,w);background(9).stroke(w,96);for(t+=PI/80,i=
 1.9K
 16K
 1.9M",generative-art,high,imtisaal-portfolio,inspiration,Compact procedural-art example demonstrates expressive creative coding.,https://x.com/yuruyurau/status/2080977918914969636,,Processing/p5-style generative code,Obfuscated one-liner is hard to maintain; credit the original artist.
-73,2026-07-24T16:26:27,@andonlabs,"Andon Labs
+75,2026-07-24T16:26:27,@andonlabs,"Andon Labs
 @andonlabs
 ·
 Jul 24
-Replying to 
+Replying to
 @andonlabs
 We measured how well 15 AI models can program a cheap ($129) off-the-shelf drone to find and follow a person in our office.
 
@@ -1288,7 +1327,7 @@ Today, no model completes this task. Fable 5 is the best model, coming within 84
 Fable 5
 Opus 4.8
 GPT 5.6 Sol","Surveillance, physical safety, consent, and benchmark reproducibility require careful review."
-74,2026-07-27T03:01:40,@parthsareen,"parth
+76,2026-07-27T03:01:40,@parthsareen,"parth
 @parthsareen
 ·
 Jul 26
@@ -1302,7 +1341,7 @@ All roads lead me back to mechatronics
 1
 17
 1.9K",mechatronics,noise,general/cloud-index,ignore,Agreement with a one-line sentiment; no resource or method.,https://x.com/parthsareen/status/2081575723488186655,,,Duplicate of index 75.
-75,2026-07-26T19:54:16,@trillhause_,"Millin Gabani
+77,2026-07-26T19:54:16,@trillhause_,"Millin Gabani
 @trillhause_
 ·
 Jul 26
@@ -1311,7 +1350,7 @@ All roads lead me back to mechatronics
 7
 26
 3.5K",mechatronics,low,general/cloud-index,inspiration,Signals personal interest in mechatronics but contains no learning resource.,https://x.com/trillhause_/status/2081468161790967898,,,No actionable detail.
-76,2026-07-24T14:15:15,@ProfTomYeh,"Tom Yeh
+78,2026-07-24T14:15:15,@ProfTomYeh,"Tom Yeh
 @ProfTomYeh
 ·
 Jul 24
@@ -1326,7 +1365,7 @@ Show more
 48
 321
 17K",ai-learning,high,general/cloud-index,add-reference,Visual 19-step explanation of linear and RBF support-vector machines.,https://x.com/ProfTomYeh/status/2080658072842703031,,SVM by hand walkthrough,Cross-check equations and edge cases with a standard ML text.
-77,2026-07-24T18:45:34,@gurishsharma,"gurish
+79,2026-07-24T18:45:34,@gurishsharma,"gurish
 @gurishsharma
 ·
 Jul 24
@@ -1335,7 +1374,7 @@ This is how you can use a full-res 120GB video on your desktop directly on Finde
 19
 417
 84K",cloud-media,medium,general/cloud-index,research-later,Potential workflow for editing very large remote media directly through Finder.,https://x.com/gurishsharma/status/2080726098397020577,,remote full-resolution Finder media workflow,"Tool is unnamed; assess bandwidth, cache size, offline behavior, security, and cost."
-78,2026-07-25T21:54:48,@Lentils80,"Lentils
+80,2026-07-25T21:54:48,@Lentils80,"Lentils
 @Lentils80
 ·
 Jul 25
@@ -1346,7 +1385,7 @@ It implemented a realistic grass and wind field simulation so that the millions 
 301
 4.4K
 329K",creative-coding,high,imtisaal-portfolio,inspiration,Single-file procedural painterly world is a strong web-art and simulation reference.,https://x.com/Lentils80/status/2081136109778538917,,Claude Opus 5 procedural HTML world,Millions of elements may be GPU-heavy and unsuitable for this Mac or mobile devices.
-79,2026-07-23T17:13:56,@thesophiaxu,"Sophia Xu
+81,2026-07-23T17:13:56,@thesophiaxu,"Sophia Xu
 @thesophiaxu
 ·
 Jul 23
@@ -1360,7 +1399,7 @@ Here's me learning neuroimaging using nested tooltips to recursively explain con
 133K",education-tools,high,lab-zero-website,inspiration,Excellent pattern for converting advanced textbooks into interactive explanations and widgets.,https://x.com/thesophiaxu/status/2080340651363967406,,"interactive textbook prompt
 nested tooltips
 neuroimaging learning demo",Agents can introduce factual errors and copyrighted text; cite sources and verify every explanation.
-80,2026-07-24T09:14:08,@GenReasoning,"General Reasoning
+82,2026-07-24T09:14:08,@GenReasoning,"General Reasoning
 @GenReasoning
 ·
 Jul 24
@@ -1376,7 +1415,7 @@ Show more
 208
 2.2K
 419K",research-tools,high,general/cloud-index,research-later,Historical-date web search could materially improve forecasting backtests and leakage control.,https://x.com/GenReasoning/status/2080582292901154920,,BackSearch,"Assess archive coverage, timestamp fidelity, licensing, survivorship bias, and data provenance."
-81,2026-07-25T09:32:30,@viktoroddy,"Viktor Oddy
+83,2026-07-25T09:32:30,@viktoroddy,"Viktor Oddy
 @viktoroddy
 ·
 Jul 25
@@ -1387,7 +1426,7 @@ Claude Opus 5 is crazy efficient for web deisgn.
 130
 1.5K
 178K",web-design,high,lab-zero-website,add-reference,Focused tutorial on building polished websites with Claude Code and Opus.,https://x.com/viktoroddy/status/2080949301405155781,,16-minute Claude Code web-design tutorial,Award-winning claim is promotional; ensure accessibility and originality.
-82,2026-07-22T17:44:32,@0xMovez,"Movez
+84,2026-07-22T17:44:32,@0xMovez,"Movez
 @0xMovez
 ·
 Jul 22
@@ -1413,7 +1452,7 @@ Most people who try to build a multi-step agent end up with a straight line. Ste
 274
 2.9K
 677K",ai-agents,medium,general/cloud-index,research-later,Graph-orchestration and self-improving-loop material may contain useful agent patterns.,https://x.com/0xMovez/status/2079985963862786352,,Graph Engineering with Claude: 14-Step Roadmap,"Unverified attribution and inflated percentages; self-modifying agents require tests, budgets, permissions, and rollback."
-83,2026-06-23T08:48:54,@eng_khairallah1,"Khairallah AL-Awady
+85,2026-06-23T08:48:54,@eng_khairallah1,"Khairallah AL-Awady
 @eng_khairallah1
 ·
 Jun 23
@@ -1426,21 +1465,21 @@ A small group of people figured out that the highest-paid building role in tech 
 484
 2.2K
 4.6M",career,medium,imtisaal-portfolio,add-reference,Accessible AI-engineering career guide aimed at people without CS degrees.,https://x.com/eng_khairallah1/status/2069341916798369801,,How To Become An AI Engineer in 2026,Headline is promotional; verify curriculum depth and labor-market claims.
-84,2026-07-23T18:43:08,@wafffls,"seeyuh✌️
+86,2026-07-23T18:43:08,@wafffls,"seeyuh✌️
 @wafffls
 ·
 Jul 23
-Replying to 
+Replying to
 @LudensLudonauta
 Study cache next then
 1
 95
 10K",software-learning,low,general/cloud-index,inspiration,Short reminder to study caching after another topic.,https://x.com/wafffls/status/2080363099371003937,,computer caching,No linked curriculum or context.
-85,2026-07-22T07:23:16,@ahmedscen,"Ahmed
+87,2026-07-22T07:23:16,@ahmedscen,"Ahmed
 @ahmedscen
 ·
 Jul 22
-❤️‍🔥GPT 5.6 Sol   
+❤️‍🔥GPT 5.6 Sol
 
 Prompt ↓
 0:04
@@ -1448,15 +1487,15 @@ Prompt ↓
 37
 679
 109K",ai-demo,low,general/cloud-index,ignore,Model demo references a prompt but the saved item does not contain it.,https://x.com/ahmedscen/status/2079829614680215611,,GPT 5.6 Sol,Missing content and benchmark context.
-86,2026-06-23T23:17:03,@urbanarson,"Urban Arson 
+88,2026-06-23T23:17:03,@urbanarson,"Urban Arson
 @urbanarson
 ·
 Jun 23
-Replying to 
+Replying to
 @puck_psx
 You should add delighting  to your tool, like photogrammetry applications do.
 
-Here's a simplified equation to show how it would work. 
+Here's a simplified equation to show how it would work.
 
 And here's a detailed tutorial on a free tool from agisoft.
 
@@ -1471,13 +1510,13 @@ ons/articles/31000158376-agisoft-texture-de-lighter-general-workflow?id=71
 56K",photogrammetry,high,general/cloud-index,add-reference,Concrete free workflow for removing lighting from textures used in photogrammetry.,https://x.com/urbanarson/status/2069560394012623197,https://t.co/4BgAISP6tE,"Agisoft Texture De-Lighter
 https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow
 https://t.co/4BgAISP6tE","Preserve originals and verify color accuracy, supported formats, and license."
-87,2026-07-21T17:47:17,@felixrieseberg,"Felix Rieseberg
+89,2026-07-21T17:47:17,@felixrieseberg,"Felix Rieseberg
 @felixrieseberg
 ·
 Jul 21
 Have you built a language model? You should. It's so much fun to chat with something you made.
 
-Anyone can do it, too. I made an app that teaches the fundamentals and gives you everything you need to build your own: 
+Anyone can do it, too. I made an app that teaches the fundamentals and gives you everything you need to build your own:
 http://
 languagemodelbuilder.com
 98
@@ -1486,13 +1525,13 @@ languagemodelbuilder.com
 570K",ai-learning,high,general/cloud-index,add-reference,Interactive app teaches language-model fundamentals by having learners build one.,https://x.com/felixrieseberg/status/2079624265528475975,https://t.co/nLjFfpczbV,"http://languagemodelbuilder.com
 Language Model Builder
 https://t.co/nLjFfpczbV","Check privacy, compute requirements, curriculum accuracy, and age suitability."
-88,2026-07-21T19:35:49,@felixrieseberg,"Felix Rieseberg
+90,2026-07-21T19:35:49,@felixrieseberg,"Felix Rieseberg
 @felixrieseberg
 ·
 Jul 21
-Replying to 
+Replying to
 @mattlam_
-Thank you! It was a personal side project, so no Mythos (but a healthy amount of Opus & Fable). Also, shout out to 
+Thank you! It was a personal side project, so no Mythos (but a healthy amount of Opus & Fable). Also, shout out to
 https://
 shaders.paper.design, most of my design here is ""cool shader plus art I like"".
 Paper Shaders – Ultra-fast zero-dependency shaders
@@ -1502,7 +1541,7 @@ From shaders.paper.design
 10K",web-graphics,high,imtisaal-portfolio,research-later,Fast zero-dependency shader library could add polished visuals without a large framework.,https://x.com/felixrieseberg/status/2079651581679771899,https://t.co/CYD6eIlhez,"https://shaders.paper.design
 Paper Shaders
 https://t.co/CYD6eIlhez","Test GPU usage, mobile compatibility, accessibility, licensing, and reduced-motion behavior."
-89,2026-06-17T11:16:55,@zeuuss_01,"ZEUS⚡️
+91,2026-06-17T11:16:55,@zeuuss_01,"ZEUS⚡️
 @zeuuss_01
 ·
 Jun 17
@@ -1516,11 +1555,11 @@ Boutique web agencies quote $6,000–$35,000+ for a custom animated site and bil
 Claude Code
 Higgsfield MCP
 The $35K Motion-Website Playbook","Price claims are promotional; verify asset rights, MCP permissions, cost, and performance."
-90,2026-07-20T23:03:00,@Jasperli0122,"Jasper Li
+92,2026-07-20T23:03:00,@Jasperli0122,"Jasper Li
 @Jasperli0122
 ·
 Jul 20
-Replying to 
+Replying to
 @Jasperli0122
 Try it now:
 Monid — Connect your agent to every tool it needs.
@@ -1530,11 +1569,11 @@ From monid.ai
 975",agent-integration,high,general/cloud-index,research-later,Monid promises a unified connection layer between agents and external tools.,https://x.com/Jasperli0122/status/2079341331759919550,https://t.co/crxYMWYaQ3,"Monid
 monid.ai
 https://t.co/crxYMWYaQ3","Connector hub may access many accounts; review OAuth scopes, secret storage, isolation, logs, and revocation."
-91,2026-07-20T12:18:42,@denysdovhan,"den the dev 👨‍💻
+93,2026-07-20T12:18:42,@denysdovhan,"den the dev 👨‍💻
 @denysdovhan
 ·
 Jul 20
-Replying to 
+Replying to
 @denysdovhan
 skill:
 GitHub - ayghri/i-have-adhd: A skill to stop your coding agent from burying the answer. ADHD-frie...
@@ -1544,11 +1583,11 @@ From github.com
 171
 15K",agent-skills,high,general/cloud-index,install,ADHD-friendly skill designed to make coding-agent answers concise and action-oriented.,https://x.com/denysdovhan/status/2079179190507565147,https://t.co/8Rk2XHKcn9,"ayghri/i-have-adhd
 https://t.co/8Rk2XHKcn9",Third-party instructions should be audited and version-pinned; may overcompress nuanced tasks.
-92,2026-07-20T11:56:31,@heyrobinai,"Robin Delta
+94,2026-07-20T11:56:31,@heyrobinai,"Robin Delta
 @heyrobinai
 ·
 Jul 20
-Replying to 
+Replying to
 @heyrobinai
 link:
 GitHub - JCodesMore/ai-website-cloner-template: Clone any website with one command using AI coding...
@@ -1557,7 +1596,7 @@ From github.com
 79
 6.2K",web-development,medium,general/cloud-index,research-later,AI website-cloning template could help reproduce layouts for authorized migrations or tests.,https://x.com/heyrobinai/status/2079173606366695544,https://t.co/tkRR6l869X,"JCodesMore/ai-website-cloner-template
 https://t.co/tkRR6l869X","High copyright, trademark, credential-harvesting, Terms-of-Service, and deceptive-copy risk; use only on authorized sites."
-93,2026-07-16T18:58:25,@Kimi_Moonshot,"Kimi.ai
+95,2026-07-16T18:58:25,@Kimi_Moonshot,"Kimi.ai
 @Kimi_Moonshot
 ·
 Jul 16
@@ -1573,7 +1612,7 @@ Show more
 25M",foundation-models,high,general/cloud-index,research-later,Large multimodal model release claims million-token context and more efficient long-context decoding.,https://x.com/Kimi_Moonshot/status/2077830229968683203,,"Kimi K3
 Kimi Delta Attention
 Attention Residuals",Vendor claims need independent benchmarks; model is far too large for this Mac and should use hosted access.
-94,2026-07-13T09:44:39,@mikenevermiss,"MIKE
+96,2026-07-13T09:44:39,@mikenevermiss,"MIKE
 @mikenevermiss
 ·
 Jul 13
@@ -1598,7 +1637,7 @@ Design has always been one of the areas where AI struggles to match human abilit
 673K",web-design,high,lab-zero-website,add-reference,Design-focused guide with complete prompts for interactive 3D sites.,https://x.com/mikenevermiss/status/2076603705323892815,,"How To Actually Design With AI
 Claude Code
 Claude Fable 5",3D design can impair speed and accessibility; verify originality and asset licenses.
-95,2026-07-18T12:24:54,@mikenevermiss,"MIKE
+97,2026-07-18T12:24:54,@mikenevermiss,"MIKE
 @mikenevermiss
 ·
 Jul 18
@@ -1621,7 +1660,7 @@ how to run it today, free in the browser, through the API, or wired...
 4.8K
 472K",foundation-models,medium,general/cloud-index,add-reference,"Tutorial and guide cover Kimi K3 architecture, browser use, API access, and web design.",https://x.com/mikenevermiss/status/2078455971341295783,,"A Complete Guide to Moonshot's New 2.8T Flagship
 Kimi K3 web-design tutorial",Promotional claims and model details need primary-source verification.
-96,2026-07-18T12:01:16,@XXIfomo,"XXI
+98,2026-07-18T12:01:16,@XXIfomo,"XXI
 @XXIfomo
 ·
 Jul 18
@@ -1642,13 +1681,13 @@ Jun 28
 How to Build a $10,000-Level Website With Animations in Claude Code
 Agencies charge $5,000 for a portfolio site that looks this good
 I built mine in 2 hours. Here's exactly how
-This is the real walkthrough - not a generic template guide 
+This is the real walkthrough - not a generic template guide
 I'm using my own portfolio as...
 48
 256
 2.9K
 642K",creator-business,low,imtisaal-portfolio,inspiration,Shows a possible content-to-client funnel using a dramatic architecture render.,https://x.com/XXIfomo/status/2078450027718971543,,Claude Code portfolio-site workflow,"Revenue, client, age, and view claims are unverified; likely survivorship bias."
-97,2026-06-28T14:57:52,@monokern,"monokern
+99,2026-06-28T14:57:52,@monokern,"monokern
 @monokern
 ·
 Jun 28
@@ -1656,26 +1695,26 @@ Jun 28
 How to Build a $10,000-Level Website With Animations in Claude Code
 Agencies charge $5,000 for a portfolio site that looks this good
 I built mine in 2 hours. Here's exactly how
-This is the real walkthrough - not a generic template guide 
+This is the real walkthrough - not a generic template guide
 I'm using my own portfolio as...
 61
 353
 3.2K
 3.1M",web-design,high,imtisaal-portfolio,add-reference,Detailed animated portfolio-site walkthrough is directly relevant to personal site work.,https://x.com/monokern/status/2071246711222055363,,"How to Build a $10,000-Level Website With Animations in Claude Code","Dollar-value framing is marketing; prioritize accessibility, maintainability, and originality."
-98,2026-07-17T22:20:51,@paulxgu,"Paul Gu
+100,2026-07-17T22:20:51,@paulxgu,"Paul Gu
 @paulxgu
 ·
 Jul 17
-We got our 5yo a 
+We got our 5yo a
 @MinimalCompany
- phone. Black and white, tactile, low-stim like a kindle, set up with just a texting app for family. 
+ phone. Black and white, tactile, low-stim like a kindle, set up with just a texting app for family.
 
 She now has a real use to drive her learning of letters. And side effect is I get these amazing messages throughout my work day!
 28
 68
 2.1K
 847K",children-technology,medium,general/cloud-index,research-later,Low-stimulation tactile phone is an interesting constrained-device approach for family messaging.,https://x.com/paulxgu/status/2078243559149588533,,Minimal Company phone,"Child privacy, parental controls, contacts, emergency access, durability, and developmental fit require scrutiny."
-99,2026-07-16T12:33:31,@sairahul1,"Rahul
+101,2026-07-16T12:33:31,@sairahul1,"Rahul
 @sairahul1
 ·
 Jul 16
@@ -1687,12 +1726,12 @@ Here is every department, and where to get each one.
 
 Developers
 
-Superpowers → 
+Superpowers →
 http://
 github.com/obra/superpowe
 rs
 …
-Context7 → 
+Context7 →
 http://
 github.com/upstash/contex
 t7
@@ -1719,7 +1758,7 @@ https://t.co/5UIwubYM4W","https://github.com/obra/superpowers
 https://github.com/upstash/context7
 Skill Creator
 42-skill AI organization","Do not bulk-install; audit each skill, permissions, dependencies, overlap, and maintenance status."
-100,2026-07-07T18:55:29,@rechievaldez,"Rechie Valdez
+102,2026-07-07T18:55:29,@rechievaldez,"Rechie Valdez
 @rechievaldez
 ·
 Jul 7
@@ -1729,7 +1768,7 @@ Eligible organizations across Canada can apply for funding to help expand women'
 
 The deadline to apply is September 15.
 
-Apply here: 
+Apply here:
 https://
 canada.ca/en/women-gende
 r-equality/funding/funding-opportunities/advancing-leadership/about.html
@@ -1740,23 +1779,23 @@ r-equality/funding/funding-opportunities/advancing-leadership/about.html
 11
 1.3K",grants,medium,LabZeroGrants,research-later,Official Canadian funding stream aligned with women's economic and leadership opportunities.,https://x.com/rechievaldez/status/2074568000787861974,https://t.co/hejWM0R8DR,"Women and Gender Equality Canada Women's Program
 https://canada.ca/en/women-gender-equality/funding/funding-opportunities/advancing-leadership/about.html",September 15 deadline has passed; monitor for future calls and confirm eligibility.
-101,2026-07-06T19:25:52,@lucasllewis,"Lucas
+103,2026-07-06T19:25:52,@lucasllewis,"Lucas
 @lucasllewis
 ·
 Jul 6
-Replying to 
+Replying to
 @gabidemie
- and 
+ and
 @poptime
 7
 78
 768
 764K",social-reply,noise,general/cloud-index,ignore,Contextless reply containing only engagement counts.,https://x.com/lucasllewis/status/2074213260526588356,,,Missing parent content.
-102,2026-07-06T22:30:41,@Quaranthirst,"Papo
+104,2026-07-06T22:30:41,@Quaranthirst,"Papo
 @Quaranthirst
 ·
 Jul 6
-Replying to 
+Replying to
 @poptime
 Real!
 GIF
@@ -1764,7 +1803,7 @@ GIF
 155
 4K
 209K",social-reply,noise,general/cloud-index,ignore,Reaction GIF reply with no project content.,https://x.com/Quaranthirst/status/2074259767279628632,,,Missing parent context.
-103,2026-07-06T16:45:18,@311_v12,"V12🧃
+105,2026-07-06T16:45:18,@311_v12,"V12🧃
 @311_v12
 ·
 Jul 6
@@ -1775,7 +1814,7 @@ Me and one of you here..
 3.1K
 62K
 4.4M",social-post,noise,general/cloud-index,ignore,Contextless translated social post with no actionable resource.,https://x.com/311_v12/status/2074172849858744596,,,Missing media/context.
-104,2026-07-05T15:40:05,@_Shiva_iitp,"Shiva
+106,2026-07-05T15:40:05,@_Shiva_iitp,"Shiva
 @_Shiva_iitp
 ·
 Jul 5
@@ -1805,7 +1844,7 @@ SSL
 JWT
 OAuth
 TDD",A topic list is not a curriculum; prioritize based on project needs and use current primary documentation.
-105,2026-07-03T16:26:00,@_Shiva_iitp,"Shiva
+107,2026-07-03T16:26:00,@_Shiva_iitp,"Shiva
 @_Shiva_iitp
 ·
 Jul 3
@@ -1843,7 +1882,7 @@ circuit breakers
 retries
 message queues
 pub/sub",Do not add infrastructure prematurely; choose only what measured scale and reliability needs justify.
-106,2026-07-02T09:44:57,@Prasanjit_ui,"Prasanjit Dey
+108,2026-07-02T09:44:57,@Prasanjit_ui,"Prasanjit Dey
 @Prasanjit_ui
 ·
 Jul 2
@@ -1857,7 +1896,7 @@ Show more
 156
 1.8K
 180K",career,medium,imtisaal-portfolio,inspiration,Practical remote-job strategy emphasizing niche depth and consistent visible work.,https://x.com/Prasanjit_ui/status/2072617513079251312,,,Anecdotal and thread is truncated; consistency should not become burnout.
-107,2026-07-02T05:28:40,@ThakurAbhay342,"Abhay Singh
+109,2026-07-02T05:28:40,@ThakurAbhay342,"Abhay Singh
 @ThakurAbhay342
 ·
 Jul 2
@@ -1877,12 +1916,12 @@ COMPANIES HIRING
 3.4K
 192K",career,medium,imtisaal-portfolio,research-later,Crowdsourced spreadsheet may surface lesser-known hiring companies.,https://x.com/ThakurAbhay342/status/2072553019502395838,https://t.co/mj0mR9s0MW,"COMPANIES HIRING Google Sheet
 https://t.co/mj0mR9s0MW","Unknown owner, stale entries, malicious links, scams, and spreadsheet tracking; verify every employer independently."
-108,2026-07-01T16:24:05,@real_deep_ml,"Deep-ML
+110,2026-07-01T16:24:05,@real_deep_ml,"Deep-ML
 @real_deep_ml
 ·
 Jul 1
-We just added interview prep for two Jane Street roles: 
-- Machine Learning Engineer 
+We just added interview prep for two Jane Street roles:
+- Machine Learning Engineer
 - Quantitative Researcher.
 
 The prep walks you through what to study for each round, what to expect in the interview process, and which projects you can build for your resume to increase your
@@ -1891,7 +1930,7 @@ Show more
 60
 1.4K
 413K",career,high,imtisaal-portfolio,research-later,Role-specific interview preparation for Jane Street ML engineer and quantitative researcher paths.,https://x.com/real_deep_ml/status/2072355573467697505,,Deep-ML Jane Street interview prep,Third-party guide; compare with Jane Street's official preparation material and current roles.
-109,2026-06-27T00:12:08,@eroticacid,"Gu
+111,2026-06-27T00:12:08,@eroticacid,"Gu
 @eroticacid
 ·
 Jun 26
@@ -1914,19 +1953,19 @@ Takotsubo —
 143
 2.1K
 180K",health,noise,general/cloud-index,ignore,Mixes a real stress-cardiomyopathy concept with an unsourced aspirin and beta-blocker intervention.,https://x.com/eroticacid/status/2070661421411537399,,Takotsubo cardiomyopathy,Dangerous medication advice; beta blockers require prescribing and aspirin can cause bleeding. Seek urgent medical care for chest pain.
-110,2026-06-24T15:51:08,@diarseee,"‎ً
+112,2026-06-24T15:51:08,@diarseee,"‎ً
 @diarseee
 ·
 Jun 24
 he's so sexy to me
-From 
+From
 Septimus Prime
 0:02 / 0:05
 167
 3.8K
 18K
 13M",entertainment,noise,general/cloud-index,ignore,Personal attraction reaction with no project value.,https://x.com/diarseee/status/2069810563035574376,,,
-111,2026-06-24T17:29:44,@jock_ferguson,"Jock Ferguson
+113,2026-06-24T17:29:44,@jock_ferguson,"Jock Ferguson
 @jock_ferguson
 ·
 Jun 24
@@ -1940,13 +1979,13 @@ This is unbelievable.
 2.5K
 923K",content-automation,medium,lab-zero-website,research-later,Fastlane claims to create product videos from an existing website.,https://x.com/jock_ferguson/status/2069835376437682336,,"Claude for Content
 Fastlane","Thousands of automated videos invites spam, copyright, brand-quality, privacy, and platform-policy risk."
-112,2026-06-25T00:37:12,@origamichat,"Origami
+114,2026-06-25T00:37:12,@origamichat,"Origami
 @origamichat
 ·
 Jun 24
 This is the fastest way to get your first 50 customers:
 
->go to 
+>go to
 http://
 origami.chat
 >type your domain
@@ -1960,18 +1999,18 @@ Show more
 2.8M",sales-automation,medium,LabZeroGrants,research-later,"Origami combines website analysis, ICP generation, lead discovery, and automated outreach.",https://x.com/origamichat/status/2069942953255252089,https://t.co/zqCCjZha1R,"https://origami.chat
 Origami
 https://t.co/zqCCjZha1R","Unverified results; scraping and outreach can violate privacy law, platform terms, anti-spam rules, and brand expectations."
-113,2026-06-18T00:18:09,@MakerThrive,"MakerThrive
+115,2026-06-18T00:18:09,@MakerThrive,"MakerThrive
 @MakerThrive
 ·
 Jun 17
 holy fucking shit
-0:39From 
+0:39From
 Marcos Rico Peng
 143
 491
 10K
 939K",video,noise,general/cloud-index,ignore,Reaction post with no description of the embedded video.,https://x.com/MakerThrive/status/2067401444135698626,,,Missing context.
-114,2026-06-17T14:13:45,@shipper_now,"Shipper
+116,2026-06-17T14:13:45,@shipper_now,"Shipper
 @shipper_now
 ·
 Jun 17
@@ -1984,7 +2023,7 @@ This is beyond absurd.
 50
 543
 186K",ai-hype,noise,general/cloud-index,ignore,Sensational claim about reproducing a major company in three minutes provides no method or evidence.,https://x.com/shipper_now/status/2067249344022298960,,,Misleading equivalence between generated prototype and real business or infrastructure.
-115,2026-06-16T14:38:24,@Favwontmiss,"Fav
+117,2026-06-16T14:38:24,@Favwontmiss,"Fav
 @Favwontmiss
 ·
 Jun 16
@@ -1997,7 +2036,7 @@ Save this. Number 6 is the one nobody talks about.￼
 421
 5.2K
 565K",adhd,medium,general/cloud-index,research-later,Environment-design habits could be useful for ADHD-friendly productivity.,https://x.com/Favwontmiss/status/2066893158403780957,,ADHD adult habits thread,Content is not captured and should not replace clinical support; avoid stereotyping.
-116,2026-06-08T08:55:01,@be_like_legend1,"𝐋𝐞𝐠𝐞𝐧𝐝
+118,2026-06-08T08:55:01,@be_like_legend1,"𝐋𝐞𝐠𝐞𝐧𝐝
 @be_like_legend1
 ·
 Jun 8
@@ -2008,7 +2047,7 @@ Here are 5 viral prompts to instantly clear your mind and access your focus:￼
 68
 675
 86K",adhd,noise,general/cloud-index,ignore,Invents an ADHD Clarity Mode and uses viral-prompt framing.,https://x.com/be_like_legend1/status/2063907638413344795,,five ADHD clarity prompts,Misleading mental-health marketing; ChatGPT and Claude have no such hidden feature.
-117,2026-06-07T13:25:35,@browngirlscene,"❦
+119,2026-06-07T13:25:35,@browngirlscene,"❦
 @browngirlscene
 ·
 Jun 7
@@ -2024,12 +2063,12 @@ princess glam on maham malek by dea kolleshi ꕤ ⋆.˚
 21K
 982K",beauty,low,general/cloud-index,inspiration,Makeup reference highlighting skill with glam looks on brown skin.,https://x.com/browngirlscene/status/2063613340153184623,,"Dea Kolleshi
 princess glam",Visual inspiration only; obtain permission before reusing imagery.
-118,2026-06-05T14:50:09,@curlysaarthak,"juggernaut
+120,2026-06-05T14:50:09,@curlysaarthak,"juggernaut
 @curlysaarthak
 ·
 Jun 5
 jane street has some interesting blogs
-too bad it would take a week to understand each 
+too bad it would take a week to understand each
 
 
 https://
@@ -2064,27 +2103,27 @@ https://t.co/kTgOenAhVT","https://blog.janestreet.com/using-group-theory-to-expl
 https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/
 https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/
 https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/",Advanced material is time-intensive; index remotely and read selectively.
-119,2026-06-05T05:52:50,@SkyyTheDev,"Sky
+121,2026-06-05T05:52:50,@SkyyTheDev,"Sky
 @SkyyTheDev
 ·
 Jun 5
-Replying to 
+Replying to
 @JasonBotterill
 Imo human still maintains an important position in an ai-native world since they are the active observer of our world, they can be inspired by their surroundings and come up with ideas. When you prompt a model to do sth new, it can only search within its solution space.
 2
 883",ai-philosophy,low,general/cloud-index,inspiration,"Useful reminder that humans contribute lived observation and problem selection, not only solution search.",https://x.com/SkyyTheDev/status/2062774629396263115,,,Simplifies model creativity and human cognition.
-120,2026-06-02T21:04:02,@kemii99,"kemii
+122,2026-06-02T21:04:02,@kemii99,"kemii
 @kemii99
 ·
 Jun 2
-Replying to 
+Replying to
 @kardiaphagy
 there are people who aren’t necessarily “doing better,” they’re just not resisting everything the way most of us do
 2
 5
 345
 12K",personal-development,low,general/cloud-index,inspiration,Compact reflection on acceptance versus constant resistance.,https://x.com/kemii99/status/2061916774912700747,,,Too abstract for operational use.
-121,2026-06-03T16:04:23,@_adishj,"Adish Jain ☕️
+123,2026-06-03T16:04:23,@_adishj,"Adish Jain ☕️
 @_adishj
 ·
 Jun 3
@@ -2094,7 +2133,7 @@ this launch video is made entirely with Motion. 👇🏽
 
 QT + comment ""MOTION"" to get 1,000 free credits.
 
-tag 
+tag
 @motion_so
  in any X post for a surprise.
 
@@ -2105,7 +2144,7 @@ now generally available at motion [dot] so.
 594
 934K",motion-design,high,lab-zero-website,research-later,Dedicated agent for motion-design generation with a concrete launch example.,https://x.com/_adishj/status/2062203755718930550,,"Motion
 motion.so","Engagement-gated credit promotion; verify pricing, rights, data retention, export quality, and accessibility."
-122,2026-05-17T20:25:27,@paonx_eth,"Paone
+124,2026-05-17T20:25:27,@paonx_eth,"Paone
 @paonx_eth
 ·
 May 17
@@ -2140,7 +2179,7 @@ https://t.co/igZeKNTPpX","official Jane Street mock coding interview
 Jane Street preparing-for-interviews page
 https://t.co/rBFp1BciLQ
 https://t.co/igZeKNTPpX","Ignore the fabricated salary, rejection, and Claude Code claims; rely on official sources."
-123,2026-05-18T15:09:34,@BiggestSandro7,"BigSandro7
+125,2026-05-18T15:09:34,@BiggestSandro7,"BigSandro7
 @BiggestSandro7
 ·
 May 18
@@ -2156,7 +2195,7 @@ I think girls are better kissers than boys .
 425
 5.4K
 199K",adult-content,noise,general/cloud-index,ignore,Sexual commentary with no project relevance.,https://x.com/BiggestSandro7/status/2056391753259741599,,,Explicit content and objectifying generalization.
-124,2026-05-17T23:43:18,@itsardat,"ardat b de prestígio
+126,2026-05-17T23:43:18,@itsardat,"ardat b de prestígio
 @itsardat
 ·
 May 17
@@ -2173,7 +2212,7 @@ Uns com tanto e outros com tão pouco
 265
 35K
 3.8M",beauty,noise,general/cloud-index,ignore,Anecdote about permanently plucking a hairline is not useful guidance.,https://x.com/itsardat/status/2056158651958608207,,,"Potential skin injury, scarring, infection, and body-image harm."
-125,2026-05-16T18:09:08,@andruyeung,"Andrew Yeung
+127,2026-05-16T18:09:08,@andruyeung,"Andrew Yeung
 @andruyeung
 ·
 May 16
@@ -2182,11 +2221,11 @@ If you know Claude Code, can write persuasively, can speak in front of an audien
 20
 771
 44K",career,high,imtisaal-portfolio,inspiration,"Good multidisciplinary career signal: AI coding, persuasive communication, public speaking, design taste, organization, and learning speed.",https://x.com/andruyeung/status/2055712165873541368,,Claude Code,Broad labor-market claim is anecdotal; demonstrate skills with evidence rather than buzzwords.
-126,2026-05-14T15:55:56,@w3llr00t3d,"Well Rooted
+128,2026-05-14T15:55:56,@w3llr00t3d,"Well Rooted
 @w3llr00t3d
 ·
 May 14
-Replying to 
+Replying to
 @MartinShkreli
 @MartinShkreli
  Under promise and over deliver, as I was taught.
@@ -2194,22 +2233,22 @@ Replying to
 PS. When I was younger I watched all of your YT finance 101 live streams. Changed my life...ty!
 3
 3.1K",professional-practice,low,general/cloud-index,inspiration,Durable service principle to set realistic expectations and exceed them.,https://x.com/w3llr00t3d/status/2054953868316795279,,under-promise and over-deliver,Do not intentionally sandbag estimates or hide uncertainty.
-127,2026-05-13T14:40:06,@dsmproengineer,"DSM Pro Engineering
+129,2026-05-13T14:40:06,@dsmproengineer,"DSM Pro Engineering
 @dsmproengineer
 ·
 May 13
-Replying to 
+Replying to
 @willcb
 Yes, this is why you have custom validators/linters to clean up the mess. Feed the validator/linter output to an Claude code, tell it to clean the problems, and it cleans up automatically. It all depends on the power of your validator. Smart validators will check for architecture
 1
 1.3K",code-quality,high,general/cloud-index,add-reference,Strong pattern: feed deterministic validator and linter findings back to an agent for bounded cleanup.,https://x.com/dsmproengineer/status/2054572397122957464,,"custom validators
 linters
 Claude Code",Agents must not auto-fix without tests and review; linters cannot prove architecture correctness.
-128,2026-05-11T13:33:24,@awaisaftab,"Awais Aftab
+130,2026-05-11T13:33:24,@awaisaftab,"Awais Aftab
 @awaisaftab
 ·
 May 11
-When patients ask, “What disorder do I really ‘have’?” the honest answer is usually more interesting and messier than a single label. I wrote for the 
+When patients ask, “What disorder do I really ‘have’?” the honest answer is usually more interesting and messier than a single label. I wrote for the
 @nytimes
  on what I wish people understood about diagnoses and the nature of mental health problems.
 Opinion | Here’s What Psychiatrists Mean When They Say You Have A.D.H.D. (Gift Article)
@@ -2219,7 +2258,7 @@ From nytimes.com
 546
 143K",mental-health,high,general/cloud-index,add-reference,Psychiatrist-authored explanation of why diagnoses such as ADHD are useful but not simple essences.,https://x.com/awaisaftab/status/2053830838832230762,https://t.co/ua2g6PzeAZ,"NYT Opinion: Here's What Psychiatrists Mean When They Say You Have A.D.H.D.
 https://t.co/ua2g6PzeAZ","Opinion article, not personal diagnosis or treatment advice."
-129,2026-05-11T19:17:55,@yasser_elsaid_,"Yasser
+131,2026-05-11T19:17:55,@yasser_elsaid_,"Yasser
 @yasser_elsaid_
 ·
 May 11
@@ -2239,7 +2278,7 @@ Show more
 318
 32K",career,high,imtisaal-portfolio,research-later,Specific Toronto/SF founding GTM and growth job lead.,https://x.com/yasser_elsaid_/status/2053917537998627012,,"founding GTM role
 founding growth role","Post is months old; verify employer identity, availability, compensation, and authorization directly."
-130,2026-05-11T10:50:21,@vedu_boi,"VeduBoi
+132,2026-05-11T10:50:21,@vedu_boi,"VeduBoi
 @vedu_boi
 ·
 May 11
@@ -2258,11 +2297,11 @@ Powered by Claude Opus 4.7, our most capable vision model. Available in research
 3
 143
 9.1K",design-tools,medium,lab-zero-website,inspiration,"Signals Claude Design's usefulness for prototypes, slides, and one-pagers.",https://x.com/vedu_boi/status/2053789804719120670,,Claude Design by Anthropic Labs,Research preview features and model access may change; the creator's project-killing claim is anecdotal.
-131,2026-05-11T14:34:26,@PrajwalTomar_,"Prajwal Tomar
+133,2026-05-11T14:34:26,@PrajwalTomar_,"Prajwal Tomar
 @PrajwalTomar_
 ·
 May 11
-Replying to 
+Replying to
 @PrajwalTomar_
 FULL Prompt:
 
@@ -2270,7 +2309,7 @@ FULL Prompt:
 Show more
 12
 1.3K",prompt-design,high,lab-zero-website,add-reference,Rich example prompt for a cinematic luxury landing page with concrete art-direction vocabulary.,https://x.com/PrajwalTomar_/status/2053846195207119088,,Maison Vaucluse landing-page prompt,"Prompt is truncated and may overproduce decorative, inaccessible design; verify asset rights."
-132,2026-04-30T20:41:13,@shivsakhuja,"Shiv
+134,2026-04-30T20:41:13,@shivsakhuja,"Shiv
 @shivsakhuja
 ·
 Apr 30
@@ -2284,7 +2323,7 @@ Show more
 6
 34
 7.3K",graphic-design,high,lab-zero-website,install,Agent skill plus curated templates for producing higher-quality graphics from HTML.,https://x.com/shivsakhuja/status/2049952231869521970,,goose-graphics skill,"Audit skill instructions, assets, fonts, licenses, and third-party dependencies before updates."
-133,2026-05-09T11:14:19,@bidah,"RO
+135,2026-05-09T11:14:19,@bidah,"RO
 @bidah
 ·
 May 9
@@ -2295,11 +2334,11 @@ Let me give you the single biggest lever I've seen for mobile app conversions: y
 67
 970
 638K",product-onboarding,high,lab-zero-website,research-later,Screenshot-to-animation skill could quickly create onboarding videos before a paywall.,https://x.com/bidah/status/2053071057737679138,,Claude animated-onboarding skill,Missing exact repository; conversion claim is promotional and screenshots may contain private data.
-134,2026-05-09T13:30:22,@withgosha,"Design with Gosha 🇪🇺
+136,2026-05-09T13:30:22,@withgosha,"Design with Gosha 🇪🇺
 @withgosha
 ·
 May 9
-Replying to 
+Replying to
 @withgosha
 Full prompt is here:
 
@@ -2310,7 +2349,7 @@ Don’t waste time and credits inventing a landing page from scratch. Pick one f
 1
 221",prompt-library,high,lab-zero-website,research-later,One-shot landing-page prompt library may accelerate design exploration.,https://x.com/withgosha/status/2053105295694741688,https://t.co/XQw2LwZgrz,"https://promptfr.ee
 https://t.co/XQw2LwZgrz","Review prompt quality, originality, licensing, tracking, and whether generated pages meet accessibility standards."
-135,2026-05-02T11:33:54,@scottdomes,"scott 🌞
+137,2026-05-02T11:33:54,@scottdomes,"scott 🌞
 @scottdomes
 ·
 May 2
@@ -2324,13 +2363,13 @@ Show more
 29
 295
 9.5K",personal-development,medium,general/cloud-index,inspiration,"Useful reflection on identity, self-judgment, and compulsive optimization.",https://x.com/scottdomes/status/2050539273535767036,,Jung quotation,Quote attribution and interpretation may be simplified.
-136,2026-05-02T13:31:34,@buttons_cool,"Buttons.cool
+138,2026-05-02T13:31:34,@buttons_cool,"Buttons.cool
 @buttons_cool
 ·
 May 2
-Replying to 
+Replying to
 @dylan_wlms
-Tu peux aussi transformer n’importe quel doc/article/tech bit, en skill.md grace a 
+Tu peux aussi transformer n’importe quel doc/article/tech bit, en skill.md grace a
 https://
 getskillify.dev et ca c’est cool
 Skillify — Skill.md & HTML artifacts from URLs | Claude Agent skills
@@ -2341,28 +2380,28 @@ From getskillify.dev
 918",agent-skills,high,general/cloud-index,research-later,Tool claims to convert documents and URLs into skill.md files and HTML artifacts.,https://x.com/buttons_cool/status/2050568884449677399,https://t.co/3BqYIX1gck,"https://getskillify.dev
 Skillify
 https://t.co/3BqYIX1gck","Generated skills can embed unsafe instructions; inspect sources, prompt injection, permissions, and licensing before use."
-137,2026-04-30T12:18:30,@UiSavior,"UI/UX Savior
+139,2026-04-30T12:18:30,@UiSavior,"UI/UX Savior
 @UiSavior
 ·
 Apr 30
 Sites on the internet for design inspiration.
 
-Web Design → 
+Web Design →
 http://
 curated.design
-Landing Pages → 
+Landing Pages →
 http://
 landing.love
-Saas Websites → 
+Saas Websites →
 http://
 saaspo.com
-Navbar → 
+Navbar →
 http://
 navbar.gallery
-CTA Sections → 
+CTA Sections →
 http://
 cta.gallery
-Animation → 
+Animation →
 http://
 appmotion.design
 Show more
@@ -2380,7 +2419,7 @@ http://saaspo.com
 http://navbar.gallery
 http://cta.gallery
 http://appmotion.design","Inspiration only; check HTTPS, ownership, licenses, accessibility, and avoid visual copying."
-138,2026-04-30T07:20:28,@heravideoapp,"Hera Video
+140,2026-04-30T07:20:28,@heravideoapp,"Hera Video
 @heravideoapp
 ·
 Apr 30
@@ -2390,7 +2429,7 @@ Today, we’re introducing Hera Launch: AI product launch videos with taste.
 
 It's opinionated and works like a design studio, deciding pacing, typography, and motion curves for you.
 
-Get a launch video in seconds at 
+Get a launch video in seconds at
 http://
 launch.hera.video.
 0:01 / 0:26
@@ -2400,13 +2439,13 @@ launch.hera.video.
 75K",video-production,high,lab-zero-website,research-later,Opinionated AI studio for automatically pacing and animating product launch videos.,https://x.com/heravideoapp/status/2049750718869913651,https://t.co/Tse5lt79vS,"http://launch.hera.video
 Hera Launch
 https://t.co/Tse5lt79vS","Verify pricing, data retention, asset rights, export quality, and brand accuracy."
-139,2026-04-08T10:47:08,@viktoroddy,"Viktor Oddy
+141,2026-04-08T10:47:08,@viktoroddy,"Viktor Oddy
 @viktoroddy
 ·
 Apr 8
-Replying to 
+Replying to
 @viktoroddy
-Access ALL prompts for stunning animated websites in one click: 
+Access ALL prompts for stunning animated websites in one click:
 http://
 motionsites.ai
 
@@ -2424,11 +2463,11 @@ From motionsites.ai
 32K",web-design,high,lab-zero-website,research-later,Premium library of detailed prompts for animated website components.,https://x.com/viktoroddy/status/2041830194709942381,https://t.co/8ebpHNiVOM,"http://motionsites.ai
 MotionSites AI
 https://t.co/8ebpHNiVOM","Check subscription value, prompt ownership, originality, accessibility, and performance."
-140,2026-04-30T20:42:40,@shivsakhuja,"Shiv
+142,2026-04-30T20:42:40,@shivsakhuja,"Shiv
 @shivsakhuja
 ·
 Apr 30
-Replying to 
+Replying to
 @bbssppllvv
 Nice - I love this! We just shipped something similar, but for graphic design instead of UI design:
 Quote
@@ -2444,7 +2483,7 @@ Claude is awesome at creating HTML files. The challenge is finding a way to desc
 1
 12
 4.8K",graphic-design,medium,lab-zero-website,add-reference,Confirms goose-graphics as a graphic-design counterpart to UI skills.,https://x.com/shivsakhuja/status/2049952598514700659,,goose-graphics skill,Duplicate of index 132; keep one canonical entry.
-141,2026-04-29T16:17:35,@stevelauda_,"Steve Lauda
+143,2026-04-29T16:17:35,@stevelauda_,"Steve Lauda
 @stevelauda_
 ·
 Apr 29
@@ -2453,7 +2492,7 @@ Pitch deck that helping the client raised $1m pre-seed.
 60
 1.4K
 150K",pitch-design,medium,LabZeroGrants,inspiration,Potential pitch-deck design reference associated with a reported $1M pre-seed raise.,https://x.com/stevelauda_/status/2049523502404030685,,$1M pre-seed pitch deck example,Correlation is not causation and the saved text does not include the deck.
-142,2026-04-29T14:14:37,@AnatoliKopadze,"Anatoli Kopadze
+144,2026-04-29T14:14:37,@AnatoliKopadze,"Anatoli Kopadze
 @AnatoliKopadze
 ·
 Apr 29
@@ -2467,7 +2506,7 @@ Claude can...
 208
 1.4K
 2.8M",prompt-library,medium,general/cloud-index,research-later,"Broad set of Claude workflows for assistant, editing, coaching, and analysis tasks.",https://x.com/AnatoliKopadze/status/2049492553133629950,,20 Claude Prompts article,Promotional framing; review prompts individually and avoid sensitive-data disclosure.
-143,2026-04-29T08:24:56,@Oluwaphilemon1,"FHILY👑
+145,2026-04-29T08:24:56,@Oluwaphilemon1,"FHILY👑
 @Oluwaphilemon1
 ·
 Apr 29
@@ -2487,11 +2526,11 @@ Powered by Claude Opus 4.7, our most capable vision model. Available in research
 38
 606
 45K",social-design,medium,lab-zero-website,inspiration,Claude Design workflow for animated social posts could support campaign assets.,https://x.com/Oluwaphilemon1/status/2049404552735072379,,Claude Design by Anthropic Labs,"Full prompt is not captured; verify brand consistency, accessibility, and media rights."
-144,2026-04-29T07:30:13,@sairahul1,"Rahul
+146,2026-04-29T07:30:13,@sairahul1,"Rahul
 @sairahul1
 ·
 Apr 29
-Two Anthropic engineers spent 24 minutes exposing every Claude Code feature you didn't know existed. 
+Two Anthropic engineers spent 24 minutes exposing every Claude Code feature you didn't know existed.
 
 Most people will scroll past this. Don't be most people.
 0:03 / 24:47
@@ -2499,12 +2538,12 @@ Most people will scroll past this. Don't be most people.
 3.6K
 35K
 12M",developer-tools,high,general/cloud-index,add-reference,Long-form walkthrough by Anthropic engineers may reveal underused Claude Code features.,https://x.com/sairahul1/status/2049390786027167985,,Anthropic engineers' Claude Code feature video,Tweet is clickbait and lacks a direct source link; identify the official recording.
-145,2026-04-28T16:13:54,@Replit,"LIVE
+147,2026-04-28T16:13:54,@Replit,"LIVE
 Replit ⠕
 @Replit
 ·
 Apr 28
-Replying to 
+Replying to
 @Replit
 Try at:
 AI Presentation Maker: Create and Export Slides | Replit
@@ -2513,15 +2552,15 @@ From replit.com
 57
 29K",presentation-tools,high,LabZeroGrants,research-later,Replit AI presentation maker offers slide creation and export.,https://x.com/Replit/status/2049160184006938843,https://t.co/GmwIBCuoe3,"Replit AI Presentation Maker
 https://t.co/GmwIBCuoe3","Verify export formats, privacy, pricing, citations, accessibility, and asset licenses."
-146,2026-04-28T14:29:20,@KanikaBK,"Kanika
+148,2026-04-28T14:29:20,@KanikaBK,"Kanika
 @KanikaBK
 ·
 Apr 28
-Replying to 
+Replying to
 @KanikaBK
 Here’s how you can access it too:
 
-Visit 
+Visit
 https://
 claude.ai/new and sign up
 
@@ -2537,21 +2576,21 @@ Once it’s done, tweak it your way ↓
 44
 4.4K",design-tools,medium,lab-zero-website,add-reference,Simple official-app workflow for organizing and generating graphics with Claude Design.,https://x.com/KanikaBK/status/2049133869958611200,https://t.co/lkSkbD5vFM,"https://claude.ai/new
 Claude Design",Availability is plan-dependent and generated assets require review.
-147,2026-01-22T12:44:36,@transitive_bs,"Travis Fischer
+149,2026-01-22T12:44:36,@transitive_bs,"Travis Fischer
 @transitive_bs
 ·
 Jan 22
-Replying to 
+Replying to
 @Remotion
 for anyone curious about the source:
 
-skills cli: 
+skills cli:
 https://
 github.com/vercel-labs/ag
 ent-skills
 …
 
-remotion skills: 
+remotion skills:
 https://
 github.com/remotion-dev/s
 kills
@@ -2564,7 +2603,7 @@ From github.com
 26K",agent-skills,high,general/cloud-index,add-reference,Primary repositories for Vercel's skills CLI and Remotion agent skills.,https://x.com/transitive_bs/status/2014318276869070932,"https://t.co/4hTQmDcxgu
 https://t.co/AFdB6MpIMQ","https://github.com/vercel-labs/agent-skills
 https://github.com/remotion-dev/skills",Review each skill and pin versions; Remotion rendering can consume substantial disk and CPU.
-148,2026-04-26T11:10:43,@BrandonLuuMD,"Brandon Luu, MD
+150,2026-04-26T11:10:43,@BrandonLuuMD,"Brandon Luu, MD
 @BrandonLuuMD
 ·
 Apr 26
@@ -2577,7 +2616,7 @@ Failed? Convince yourself it's useful data.
 4.1K
 31K
 10M",health,low,general/cloud-index,ignore,Overstated mindset claims collapse nuanced placebo and stress research into self-deception advice.,https://x.com/BrandonLuuMD/status/2048359110412747148,,,"Do not ignore poor sleep, illness, or stress symptoms; not medical guidance."
-149,2026-04-26T09:34:27,@eng_khairallah1,"Khairallah AL-Awady
+151,2026-04-26T09:34:27,@eng_khairallah1,"Khairallah AL-Awady
 @eng_khairallah1
 ·
 Apr 26
@@ -2590,7 +2629,7 @@ Most prompt collections are generic. ""Write me a blog post."" ""Summarize this 
 209
 1K
 3.9M",prompt-library,medium,general/cloud-index,research-later,Potentially useful curated Claude prompt collection.,https://x.com/eng_khairallah1/status/2048334883198738761,,40 Powerful AI Prompts for Claude article,Unverifiable 'expert-level every time' claim; evaluate prompts against real tasks.
-150,2026-01-09T16:29:07,@rohit4verse,"Rohit
+152,2026-01-09T16:29:07,@rohit4verse,"Rohit
 @rohit4verse
 ·
 Jan 9
@@ -2601,22 +2640,22 @@ most developers are building toys while the world demands systems. tutorial hell
 1K
 7.6K
 5.4M",ai-learning,high,general/cloud-index,add-reference,Systems-oriented AI-engineer roadmap may help prioritize production skills over tutorials.,https://x.com/rohit4verse/status/2009663737469542875,,The 2026 AI Engineer Roadmap,Salary gap and urgency language are promotional; compare with primary curricula and job postings.
-151,2026-04-26T10:58:56,@s_mohinii,"Mohini Shewale
+153,2026-04-26T10:58:56,@s_mohinii,"Mohini Shewale
 @s_mohinii
 ·
 Apr 26
-Stop telling Claude 'do this'.  
-Stop telling Claude 'write code'.  
-Stop telling Claude 'fix this error'.  
+Stop telling Claude 'do this'.
+Stop telling Claude 'write code'.
+Stop telling Claude 'fix this error'.
 
-You're actually treating a senior AI like it's a junior intern.  
+You're actually treating a senior AI like it's a junior intern.
 
 Here are 8 prompts that you can copy and paste directly:
 19
 51
 177
 29K",prompting,low,general/cloud-index,research-later,May contain reusable prompts that delegate outcomes rather than tiny commands.,https://x.com/s_mohinii/status/2048356144536776877,,8 Claude prompts,Anthropomorphic 'senior AI' framing is misleading; no prompt contents are captured.
-152,2026-04-24T23:50:46,@romanbuildsaas,"Romàn
+154,2026-04-24T23:50:46,@romanbuildsaas,"Romàn
 @romanbuildsaas
 ·
 Apr 24
@@ -2636,7 +2675,7 @@ Show more
 212
 1.7K
 531K",saas-growth,medium,general/cloud-index,research-later,Founder account of rapidly growing a second SaaS may contain useful product-led sales lessons.,https://x.com/romanbuildsaas/status/2047825608030494758,,Gojiberry AI growth thread,"Revenue and timeline claims are unverified and likely omit costs, churn, and prior audience advantages."
-153,2026-04-21T09:00:16,@milesdeutscher,"Miles Deutscher
+155,2026-04-21T09:00:16,@milesdeutscher,"Miles Deutscher
 @milesdeutscher
 ·
 Apr 21
@@ -2649,7 +2688,7 @@ Analyses API key exposures, critical errors, and more:
 43
 437
 33K",security,high,general/cloud-index,add-reference,Security-audit prompt can provide a useful preliminary checklist for vibe-coded projects.,https://x.com/milesdeutscher/status/2046514343160991777,,Claude Code security-audit prompt,"An LLM prompt cannot replace secret scanners, dependency audits, SAST/DAST, threat modeling, or expert review."
-154,2026-01-26T22:21:02,@joisino_en,"Ryoma Sato
+156,2026-01-26T22:21:02,@joisino_en,"Ryoma Sato
 @joisino_en
 ·
 Jan 26
@@ -2660,7 +2699,7 @@ From arxiv.org
 5.9K
 12M",ai-research,high,general/cloud-index,add-reference,Primary research paper on how language models perform arithmetic.,https://x.com/joisino_en/status/2015912893683007793,https://arxiv.org/abs/2601.15714,"https://arxiv.org/abs/2601.15714
 How LLMs Really Do Arithmetic","Preprint may not be peer reviewed; inspect methods, models, and follow-up work."
-155,2026-03-26T05:04:49,@jbvancarthen,"k🎀
+157,2026-03-26T05:04:49,@jbvancarthen,"k🎀
 @jbvancarthen
 ·
 Mar 26
@@ -2670,7 +2709,7 @@ justin babe…in public like that??
 908
 18K
 11M",entertainment,noise,general/cloud-index,ignore,Fan-account reaction with no project utility.,https://x.com/jbvancarthen/status/2037033007530348649,https://help.x.com/rules-and-policies/authenticity,https://help.x.com/rules-and-policies/authenticity,
-156,2026-03-17T09:31:38,@tom_doerr,"Tom Dörr
+158,2026-03-17T09:31:38,@tom_doerr,"Tom Dörr
 @tom_doerr
 ·
 Mar 17
@@ -2686,17 +2725,17 @@ top-slop
 5.8K
 466K",writing-tools,high,general/cloud-index,research-later,Open-source tool specifically targeting formulaic AI-writing patterns.,https://x.com/tom_doerr/status/2033838659959468334,https://t.co/7nEXW5ie0e,"https://github.com/hardikpandya/stop-slop
 https://t.co/7nEXW5ie0e",May flatten legitimate style or rewrite meaning; audit code and compare with the already installed anti-slop tool.
-157,2026-03-16T04:13:43,@p1nosaur,"Daniel Liu
+159,2026-03-16T04:13:43,@p1nosaur,"Daniel Liu
 @p1nosaur
 ·
 Mar 16
-Replying to 
+Replying to
 @emadddd_r
 was just looking for a manufacturer man..
 2
 24
 2.5K",manufacturing,noise,general/cloud-index,ignore,Contextless reply about seeking a manufacturer.,https://x.com/p1nosaur/status/2033396268098289966,,,Missing original request and vendor details.
-158,2026-03-10T14:20:18,@qwerty_ytrevvq,"Qwerty 🧀
+160,2026-03-10T14:20:18,@qwerty_ytrevvq,"Qwerty 🧀
 @qwerty_ytrevvq
 ·
 Mar 10
@@ -2710,13 +2749,13 @@ public-apispublic-apis is a GitHub repository. Inside - 1000+ public APIs on any
 4.9K
 2M",developer-resources,high,general/cloud-index,add-reference,Large catalog of public APIs could reduce unnecessary paid integrations.,https://x.com/qwerty_ytrevvq/status/2031374592673972225,,"public-apis GitHub repository
 1000+ Free APIs article","Free does not guarantee legal, reliable, secure, maintained, or production-safe; review each API's terms and limits."
-159,2025-09-06T20:22:35,@Siddharth87,"Sid Bharath
+161,2025-09-06T20:22:35,@Siddharth87,"Sid Bharath
 @Siddharth87
 ·
 Sep 6, 2025
-Replying to 
+Replying to
 @jjanezhang
-Yeah you can’t just let it run without carefully checking what it produces and constantly reviewing the codebase. 
+Yeah you can’t just let it run without carefully checking what it produces and constantly reviewing the codebase.
 
 It’s one of the patterns I explain here -
 sidbharath.com
@@ -2727,24 +2766,24 @@ Forget learning a new tool—master the universal patterns that work across Clau
 155
 24K",coding-workflow,high,general/cloud-index,add-reference,Tool-independent AI coding playbook emphasizes continuous review rather than unattended generation.,https://x.com/Siddharth87/status/1964424010315550830,https://t.co/T489Ynoiob,"AI Coding Best Practices: The Universal Playbook
 sidbharath.com","Treat as guidance, then enforce with tests, review, and repository-specific rules."
-160,2025-09-01T07:15:33,@alojoh,"AJ Investment Research
+162,2025-09-01T07:15:33,@alojoh,"AJ Investment Research
 @alojoh
 ·
 Sep 1, 2025
-Replying to 
+Replying to
 @veggie_eric
-Hi, polyglot speaking here: best way to study any language is 
+Hi, polyglot speaking here: best way to study any language is
 A) 'situational' learning. The way I would explain it is that the brain connects vocabulary with situations. For example, if you always study words at your desk your brain connects the words with that situation (at
 Show more
 302
 2.6K
 37K
 3.1M",language-learning,medium,general/cloud-index,inspiration,Situational practice is a plausible way to strengthen vocabulary retrieval across contexts.,https://x.com/alojoh/status/1962414007240786282,,situational language-learning method,Anecdotal advice; pair with evidence-based spaced retrieval and feedback.
-161,2025-08-29T14:25:48,@yoursocialwiz,"Akanksha Pandey
+163,2025-08-29T14:25:48,@yoursocialwiz,"Akanksha Pandey
 @yoursocialwiz
 ·
 Aug 29, 2025
-Replying to 
+Replying to
 @yoursocialwiz
 5. Sahil Bloom, author of 'The 5 types of wealth'
 
@@ -2754,7 +2793,7 @@ This was a time when I was actively job hunting and had totally forgotten about 
 2
 18
 13K",career,low,imtisaal-portfolio,inspiration,Encourages ambitious direct outreach during a job search.,https://x.com/yoursocialwiz/status/1961435118935081445,,The 5 Types of Wealth by Sahil Bloom,Saved reply lacks the actual outreach tactic and outcome details.
-162,2025-08-23T23:52:12,@gabriel1,"gabriel
+164,2025-08-23T23:52:12,@gabriel1,"gabriel
 @gabriel1
 ·
 Aug 23, 2025
@@ -2765,13 +2804,13 @@ companies hate this, they usually don't know exactly where they wanna place you 
 21
 845
 56K",career,high,imtisaal-portfolio,inspiration,Good positioning advice: show a clear opinion about where and how you can contribute.,https://x.com/gabriel1/status/1959403329236374004,,,Balance specificity with genuine flexibility; do not feign expertise.
-163,2025-08-11T20:47:17,@robj3d3,"Rob Hallam
+165,2025-08-11T20:47:17,@robj3d3,"Rob Hallam
 @robj3d3
 ·
 Aug 11, 2025
-Replying to 
+Replying to
 @fearless_209
- and 
+ and
 @jackfriks
 alright sounds like you have a direction
 
@@ -2783,24 +2822,24 @@ if no one pays for it, pivot
 2
 28
 2.5K",startup-validation,medium,general/cloud-index,inspiration,"Simple loop: build a small MVP, launch, test willingness to pay, then adapt.",https://x.com/robj3d3/status/1955008139075653746,,,A few days may be unrealistic for regulated or safety-critical products; define evidence before pivoting.
-164,2025-08-07T23:48:01,@TuxTrading,"MrTux
+166,2025-08-07T23:48:01,@TuxTrading,"MrTux
 @TuxTrading
 ·
 Aug 7, 2025
-Replying to 
+Replying to
 @tome_space
- 
+
 @SpaceSandT
- and 
+ and
 @IterIntellectus
-Try this 
+Try this
 https://
 chatgpt.com/?openaicom_ref
 erred=true
 …
 2
 1.1K",ai-tools,noise,general/cloud-index,ignore,Generic ChatGPT referral link without context or unique resource.,https://x.com/TuxTrading/status/1953604073531535580,https://t.co/ZQgljUZjP5,https://chatgpt.com/,No actionable detail.
-165,2025-08-03T17:08:23,@castlehillmom,"Mom of 10
+167,2025-08-03T17:08:23,@castlehillmom,"Mom of 10
 @castlehillmom
 ·
 Aug 3, 2025
@@ -2809,7 +2848,7 @@ Starting to label and pack the kids’ school supplies. Here is what my daughter
 274
 4.3K
 821K",education,low,lab-zero-website,ignore,"Potential curriculum inspiration, but the saved text omits the actual 10th-grade humanities list.",https://x.com/castlehillmom/status/1952053947377635572,,integrated humanities curriculum,Missing source content and school context.
-166,2025-03-09T02:46:55,@gabriel1,"gabriel
+168,2025-03-09T02:46:55,@gabriel1,"gabriel
 @gabriel1
 ·
 Mar 8, 2025
@@ -2820,11 +2859,11 @@ i used this demo to get all my interviews like openai over two years ago before 
 532
 9K
 1.6M",career,high,imtisaal-portfolio,inspiration,Personalized product demos are a strong way to differentiate applications through evidence of initiative.,https://x.com/gabriel1/status/1898566138352820561,,personalized job-application demo,"Keep scope bounded, respect company security and trademarks, and avoid substantial unpaid labor."
-167,2025-04-25T01:12:13,@AtlasWario,"Atlas Wario
+169,2025-04-25T01:12:13,@AtlasWario,"Atlas Wario
 @AtlasWario
 ·
 Apr 24, 2025
-Replying to 
+Replying to
 @cxgonzalez
 Creatine isn’t a stim, it’s a buffer architecture for cellular energy latency. Specifically, it saturates the phosphagen system, storing high-energy phosphate bonds as phosphocreatine (PCr) to rapidly regenerate ATP during high-demand tasks like sprinting, lifting, cognition
 Show more
@@ -2832,7 +2871,7 @@ Show more
 24
 1.1K",nutrition,medium,general/cloud-index,research-later,Mechanistic explanation of creatine as a phosphocreatine buffer for rapid ATP regeneration.,https://x.com/AtlasWario/status/1915574535291637804,,"creatine
 phosphocreatine system","Health claims, cognition benefits, dosing, kidney concerns, and product quality require evidence and clinician advice where relevant."
-168,2024-03-07T12:05:51,@menhguin,"Minh Nhat Nguyen
+170,2024-03-07T12:05:51,@menhguin,"Minh Nhat Nguyen
 @menhguin
 ·
 Mar 7, 2024
@@ -2846,7 +2885,7 @@ Very high success rate, even if they have no open roles.
 23
 449
 45K",career,medium,imtisaal-portfolio,inspiration,Concrete cold-outreach tactic: fix a startup bug or demo a feature before asking for an interview.,https://x.com/menhguin/status/1765710448962457638,,,Success-rate claim is anecdotal; avoid unpaid work with large scope.
-169,2025-03-18T20:00:42,@shwedotai,"shweta
+171,2025-03-18T20:00:42,@shwedotai,"shweta
 @shwedotai
 ·
 Mar 18, 2025
@@ -2857,11 +2896,11 @@ Every frame looks like a feature film and the visual storytelling does the job o
 51
 1.1K
 212K",marketing,high,lab-zero-website,inspiration,Useful case study in cinematic product advertising and visual storytelling.,https://x.com/shwedotai/status/1902087787819753651,,Perplexity cinematic ad breakdown,Thread may omit production cost and attribution details.
-170,2025-02-17T20:30:00,@yoobinray,"ray🖤🇰🇷
+172,2025-02-17T20:30:00,@yoobinray,"ray🖤🇰🇷
 @yoobinray
 ·
 Feb 17, 2025
-Replying to 
+Replying to
 @yoobinray
 read it at
 raymondyoo.com
@@ -2870,23 +2909,23 @@ Ray (Page 1)
 16
 202
 26K",portfolio-design,medium,imtisaal-portfolio,inspiration,Personal-site reference that may inspire portfolio structure and presentation.,https://x.com/yoobinray/status/1891585912456282333,https://t.co/l358YNmj6N,raymondyoo.com,Visual reference only; do not copy assets or identity.
-171,2025-02-23T09:15:31,@Berry_cooool,"Berry
+173,2025-02-23T09:15:31,@Berry_cooool,"Berry
 @Berry_cooool
 ·
 Feb 23, 2025
 Easiest ways to make money :
 
-- Men's lust 
-- Women's desire for beauty 
-- Elderly's health 
-- Children's education 
-- Rich people's fear of loss 
+- Men's lust
+- Women's desire for beauty
+- Elderly's health
+- Children's education
+- Rich people's fear of loss
 - Brokies desire to get rich quickly
 315
 6.3K
 64K
 2.2M",marketing,noise,general/cloud-index,ignore,Crude demographic monetization aphorism with no actionable or ethical framework.,https://x.com/Berry_cooool/status/1893590501766349008,,,Exploitative stereotypes and reputational risk.
-172,2025-02-08T07:41:04,@im_roy_lee,"Roy
+174,2025-02-08T07:41:04,@im_roy_lee,"Roy
 @im_roy_lee
 ·
 Feb 8, 2025
@@ -2895,11 +2934,11 @@ I got rescinded from Harvard, went to community college, and am now at Columbia.
 130
 3K
 732K",career,low,imtisaal-portfolio,inspiration,Personal resilience story but no reusable tool or source in the saved text.,https://x.com/im_roy_lee/status/1888130916544868679,,,Anecdotal and context-dependent.
-173,2025-02-18T11:25:44,@AlexReibman,"Alex Reibman 🖇️
+175,2025-02-18T11:25:44,@AlexReibman,"Alex Reibman 🖇️
 @AlexReibman
 ·
 Feb 18, 2025
-Replying to 
+Replying to
 @AlexReibman
 4/ Aegis
 
@@ -2910,8 +2949,8 @@ Biomedical device to dispense medicine in emergency scenarios based on biometric
 
 
 @anshag01
- 
-@rickgxa 
+
+@rickgxa
 
 @AnshSheth4
 1:48
@@ -2920,18 +2959,18 @@ Biomedical device to dispense medicine in emergency scenarios based on biometric
 747
 149K",healthtech,medium,general/cloud-index,research-later,Aegis is a product concept linking wearables to emergency medication delivery.,https://x.com/AlexReibman/status/1891811334381003235,,"Aegis biomedical device concept
 Apple Watch","Medical-device regulation, false positives, safety, privacy, and liability are substantial."
-174,2025-02-06T21:24:51,@burntbulb,"MC
+176,2025-02-06T21:24:51,@burntbulb,"MC
 @burntbulb
 ·
 Feb 6, 2025
-Replying to 
+Replying to
 @greg_white
- and 
+ and
 @samuel_spitz
 I've been saying this. Everyone clowning about Deepseek tanking Nvidia when they still need the GPUs-- no one said they didn't, but this implies that now more than ever the money is on the application layer
 4
 293",startup-strategy,low,general/cloud-index,inspiration,Broad thesis that AI value shifts toward applications; useful only as a strategic prompt.,https://x.com/burntbulb/status/1887613452363149326,,,Market thesis is dated and unsupported in the tweet.
-175,2025-01-23T20:23:25,@benln,"Ben Lang
+177,2025-01-23T20:23:25,@benln,"Ben Lang
 @benln
 ·
 Jan 23, 2025
@@ -2940,7 +2979,7 @@ Everything they teach at YC in one page:
 411
 3.9K
 572K",startup-strategy,medium,LabZeroGrants,add-reference,Concise YC teaching summary could be a useful founder checklist.,https://x.com/benln/status/1882524558550597892,,YC one-page summary,Need the full image/thread before relying on it.
-176,2025-01-11T02:19:15,@fdotinc,"Founders Inc
+178,2025-01-11T02:19:15,@fdotinc,"Founders Inc
 @fdotinc
 ·
 Jan 10, 2025
@@ -2952,11 +2991,11 @@ Founders Inc Demo Day
 52
 190
 59K",startup-ideas,medium,general/cloud-index,inspiration,Dense demo-day broadcast is useful for surveying product ideas and pitch styles.,https://x.com/fdotinc/status/1877903068366577698,,Founders Inc Demo Day,Video is time-consuming and projects may now be stale.
-177,2025-01-14T22:30:50,@theadrianm_,"Adrian Martinez
+179,2025-01-14T22:30:50,@theadrianm_,"Adrian Martinez
 @theadrianm_
 ·
 Jan 14, 2025
-16yo pitches his startup to over 2000 people. 
+16yo pitches his startup to over 2000 people.
 
 Yep, that's me...
 0:01 / 1:06
@@ -2965,7 +3004,7 @@ Founders Inc
 @fdotinc
 ·
 Jan 10, 2025
-60 demos in 60 minutes 
+60 demos in 60 minutes
 https://
 x.com/i/broadcasts/1
 kvKpbmeEjdJE
@@ -2974,11 +3013,11 @@ kvKpbmeEjdJE
 18
 367
 74K",pitching,low,imtisaal-portfolio,inspiration,Short founder pitch example may help presentation practice.,https://x.com/theadrianm_/status/1879295134376034670,,Founders Inc Demo Day pitch,One pitch is not a general playbook.
-178,2025-01-13T14:24:52,@ssdai,"Serena Dai
+180,2025-01-13T14:24:52,@ssdai,"Serena Dai
 @ssdai
 ·
 Jan 13, 2025
-Replying to 
+Replying to
 @ssdai
 Gift link:
 The Easiest Way to Keep Your Friends
@@ -2988,7 +3027,7 @@ From theatlantic.com
 474
 31K",relationships,medium,general/cloud-index,add-reference,Potentially useful long-form article about maintaining friendships.,https://x.com/ssdai/status/1878810448910540938,https://t.co/r0GHsIXtyq,"The Atlantic: The Easiest Way to Keep Your Friends
 https://t.co/r0GHsIXtyq",Gift link may expire or be paywalled.
-179,2025-01-10T01:19:35,@TheChiefNerd,"Chief Nerd
+181,2025-01-10T01:19:35,@TheChiefNerd,"Chief Nerd
 @TheChiefNerd
 ·
 Jan 9, 2025
@@ -3002,7 +3041,7 @@ GIBSON: ""Ivermectin, Fenbendazole""
 186K
 67M",health,noise,general/cloud-index,ignore,Unverified cancer-treatment anecdote is not a credible medical resource.,https://x.com/TheChiefNerd/status/1877525664040988721,,"ivermectin
 fenbendazole",Dangerous medical misinformation; never use as treatment guidance.
-180,2024-12-24T17:12:06,@mayankja1n,"Mayank Jain
+182,2024-12-24T17:12:06,@mayankja1n,"Mayank Jain
 @mayankja1n
 ·
 Dec 24, 2024
@@ -3018,25 +3057,25 @@ Show more
 4
 143
 28K",education,low,general/cloud-index,ignore,Academic speed-running anecdote offers no durable learning resource.,https://x.com/mayankja1n/status/1871604777999540556,,,May encourage unhealthy shortcuts and minimum-pass behavior.
-181,2025-01-06T04:44:38,@ShirleyYXWu,"Shirley Wu
+183,2025-01-06T04:44:38,@ShirleyYXWu,"Shirley Wu
 @ShirleyYXWu
 ·
 Jan 5, 2025
-Replying to 
+Replying to
 @frontgirl001
-Don't think I could answer the task-specific questions due to the confidential agreement. 
+Don't think I could answer the task-specific questions due to the confidential agreement.
 
 But personally I would suggest preparing the materials in a way that your best strength is really highligted in multiple places and maybe it's not neccesary to put things most people have
 Show more
 22
 10K",career,medium,imtisaal-portfolio,inspiration,Practical reminder to make an applicant's strongest signal visible repeatedly.,https://x.com/ShirleyYXWu/status/1876127714320724332,,,Advice is incomplete because confidential details are omitted.
-182,2024-09-05T18:24:29,@khushkhushkhush,"khushi suri
+184,2024-09-05T18:24:29,@khushkhushkhush,"khushi suri
 @khushkhushkhush
 ·
 Sep 5, 2024
-this week 
+this week
 @tryparadigm
- emerged from stealth. if there’s one clear example of their painfully meticulous attention to detail, it’s the party favors 
+ emerged from stealth. if there’s one clear example of their painfully meticulous attention to detail, it’s the party favors
 @annarmonaco
  made for each attendee at their launch party. a box of riddles and a physical puzzle that contains their solutions - an
 Show more
@@ -3044,24 +3083,24 @@ Show more
 4
 71
 32K",brand-experience,medium,lab-zero-website,inspiration,Strong example of meticulous launch-event details and memorable physical artifacts.,https://x.com/khushkhushkhush/status/1831760328247668889,,Paradigm launch puzzle favors,High production effort may not match budget or audience.
-183,2024-08-24T22:15:19,@mav1289,"Planetary Consensus Machine
+185,2024-08-24T22:15:19,@mav1289,"Planetary Consensus Machine
 @mav1289
 ·
 Aug 24, 2024
-Replying to 
+Replying to
 @BelieveMe_Iwill
- and 
+ and
 @KobyTheKreator
 any photo editing app but I just use the Adobe photoshop mobile version. The free one
 5
 6
 181
 32K",design-tools,low,general/cloud-index,ignore,Generic recommendation for the free Photoshop mobile app.,https://x.com/mav1289/status/1827469764828262455,,Adobe Photoshop mobile,Pricing and feature availability may have changed.
-184,2024-08-21T14:03:27,@benln,"Ben Lang
+186,2024-08-21T14:03:27,@benln,"Ben Lang
 @benln
 ·
 Aug 21, 2024
-The 
+The
 @sama
  guide on how to succeed with a startup
 7
@@ -3069,7 +3108,7 @@ The
 1K
 198K",startup-strategy,high,LabZeroGrants,add-reference,Sam Altman's startup guide is a durable founder reference.,https://x.com/benln/status/1826258819019870375,,"Startup Playbook
 https://playbook.samaltman.com",General advice still needs adaptation to Lab Zero's nonprofit context.
-185,2024-08-08T19:13:29,@jeffzwang,"Jeffrey Wang
+187,2024-08-08T19:13:29,@jeffzwang,"Jeffrey Wang
 @jeffzwang
 ·
 Aug 8, 2024
@@ -3081,7 +3120,7 @@ Show more
 1.4K
 18K
 4.6M",education,medium,lab-zero-website,inspiration,Admissions-writing reminder to use authentic specificity rather than prestige signaling.,https://x.com/jeffzwang/status/1821625800548139217,,,Single applicant's outcome is not causal evidence.
-186,2024-08-07T11:15:08,@aschwags3,"adriane schwager
+188,2024-08-07T11:15:08,@aschwags3,"adriane schwager
 @aschwags3
 ·
 Aug 7, 2024
@@ -3096,27 +3135,27 @@ Here's what all 10s have in common:
 179
 3K
 1.3M",hiring,medium,LabZeroGrants,add-reference,Experienced founder's traits of exceptional hires may support recruiting rubrics.,https://x.com/aschwags3/status/1821143032357589323,,,Thread must be reviewed in full; subjective pattern claims can encode bias.
-187,2024-07-18T03:50:14,@DRTiiBiiRD,"⚡ ZERO 🛡️⚡
+189,2024-07-18T03:50:14,@DRTiiBiiRD,"⚡ ZERO 🛡️⚡
 @DRTiiBiiRD
 ·
 Jul 17, 2024
-Replying to 
+Replying to
 @peteyburn
- 
+
 @W2Freedom
- and 
+ and
 @lailachima
 My situation is a bit different, as I only worked 1099 contracts, but what I did, and what has been accepted every time, is adding a clause that triggers payment in the event of early termination before our pre-determined contract end date (typically 90 - 180 days from signing).
 Show more
 2
 510",contracts,high,LabZeroGrants,add-reference,Early-termination payment clauses are a useful contractor-protection concept.,https://x.com/DRTiiBiiRD/status/1813783313217360258,,early-termination payment clause,Legal language must be reviewed for the governing jurisdiction.
-188,2024-06-17T00:24:29,@drdevonprice,"Devon Price
+190,2024-06-17T00:24:29,@drdevonprice,"Devon Price
 @drdevonprice
 ·
 Jun 16, 2024
-Replying to 
+Replying to
 @drdevonprice
-it's called Puffer and it's free with a sign up at 
+it's called Puffer and it's free with a sign up at
 https://
 puffer.stanford.edu/player/
 8
@@ -3124,11 +3163,11 @@ puffer.stanford.edu/player/
 9.1K
 748K",media-tools,low,general/cloud-index,ignore,Free Stanford streaming service is unrelated to active projects.,https://x.com/drdevonprice/status/1802497510465732936,https://t.co/ufFNict39l,"Puffer
 https://puffer.stanford.edu/player/",Availability and regional rights may change.
-189,2024-05-01T01:05:09,@Malcolm_Ocean,"Malcolm Ocean 🏴‍☠️
+191,2024-05-01T01:05:09,@Malcolm_Ocean,"Malcolm Ocean 🏴‍☠️
 @Malcolm_Ocean
 ·
 Apr 30, 2024
-Replying to 
+Replying to
 @faeriellaaa
 for marriage? Passionate Marriage by David Schnarch
 
@@ -3141,24 +3180,24 @@ has long been recognized as the pioneering book on intimate human relationships.
 4
 908",relationships,medium,general/cloud-index,add-reference,Named relationship book may be useful personal reading.,https://x.com/Malcolm_Ocean/status/1785475513810829439,https://t.co/Zg3fbFIFef,"Passionate Marriage by David Schnarch
 https://t.co/Zg3fbFIFef",Not a substitute for professional relationship or mental-health care.
-190,2024-05-01T03:02:40,@ColumbiaSJP,"Columbia Students for Justice in Palestine
+192,2024-05-01T03:02:40,@ColumbiaSJP,"Columbia Students for Justice in Palestine
 @ColumbiaSJP
 ·
 Apr 30, 2024
-BREAKING: 
+BREAKING:
 NYPD officer at Columbia University texting “thought we fucking shot someone” while on campus outside of Hind Hall. #cu4palestine
 0:01 / 0:42
 497
 9.6K
 26K
 3.3M",news,low,general/cloud-index,ignore,Time-bound political incident has no clear project use.,https://x.com/ColumbiaSJP/status/1785505088313671764,,,Sensitive allegation requires primary-source verification and context.
-191,2024-04-30T17:54:00,@therealviraat,"Viraat
+193,2024-04-30T17:54:00,@therealviraat,"Viraat
 @therealviraat
 ·
 Apr 30, 2024
-Replying to 
+Replying to
 @ronawang
-Ignore every response to this thread because they are all wrong. 
+Ignore every response to this thread because they are all wrong.
 
 I also self-studied OS and honestly the best way read Linux Kernel Development by Robert Love . Aside from easy to follow explanations with a healthy dose of why certain decisions were made without being too
 Show more
@@ -3166,11 +3205,11 @@ Show more
 9
 234
 16K",software-learning,high,general/cloud-index,add-reference,"Specific, respected recommendation for learning operating-system internals.",https://x.com/therealviraat/status/1785367009120649371,,Linux Kernel Development by Robert Love,Book covers an older kernel era; pair with current kernel documentation.
-192,2024-04-29T20:12:59,@kumailnanji,"Kumail Nanji
+194,2024-04-29T20:12:59,@kumailnanji,"Kumail Nanji
 @kumailnanji
 ·
 Apr 29, 2024
-Replying to 
+Replying to
 @kumailnanji
 @arcinternet
   → Completely replaces Chrome. Haven't touched that thing in months. Workspaces is my fav feature because you don't have to have a bunch of different windows open
@@ -3184,7 +3223,7 @@ Show more
 187
 34K",productivity-tools,high,imtisaal-portfolio,research-later,Arc workspaces and Screen Studio are concrete workflow and demo-recording tools.,https://x.com/kumailnanji/status/1785039598025883836,,"Arc Browser
 Screen Studio",Arc strategy and pricing may have changed; Screen Studio is paid and recordings can expose private data.
-193,2024-04-29T21:05:03,@Davidjpark96,"David Park
+195,2024-04-29T21:05:03,@Davidjpark96,"David Park
 @Davidjpark96
 ·
 Apr 29, 2024
@@ -3200,25 +3239,25 @@ Show more
 7
 189
 57K",creator-marketing,medium,lab-zero-website,research-later,Challenges follower-count-only influencer pricing and may improve campaign budgeting.,https://x.com/Davidjpark96/status/1785052702764048521,,,Saved text omits the proposed pricing model; validate against audience quality and conversions.
-194,2024-04-30T02:22:19,@DarrienCWatson,"Darrien
+196,2024-04-30T02:22:19,@DarrienCWatson,"Darrien
 @DarrienCWatson
 ·
 Apr 29, 2024
-Replying to 
+Replying to
 @ashleyanne_p
- and 
+ and
 @Trace_Cohen
 Here are the links for all the top 3 cloud svcs.
 
-Google cloud: 
+Google cloud:
 https://
 cloud.google.com/startup/apply
 
-Azure: 
+Azure:
 https://
 microsoft.com/en-us/startups
 
-AWS: 
+AWS:
 https://
 aws.amazon.com/startups/
 1
@@ -3229,11 +3268,11 @@ https://t.co/2Eawm6LsdD
 https://t.co/Y56BcTlyUY","https://cloud.google.com/startup/apply
 https://www.microsoft.com/en-us/startups
 https://aws.amazon.com/startups/","Eligibility, credit expiry, lock-in, and billing-overage rules require current verification."
-195,2024-04-29T22:01:36,@AnEriksenWife,"Christine Eriksen
+197,2024-04-29T22:01:36,@AnEriksenWife,"Christine Eriksen
 @AnEriksenWife
 ·
 Apr 29, 2024
-Replying to 
+Replying to
 @lightxvision
 Normie job where gaining domain knowledge will benefit your software career
 
@@ -3242,7 +3281,7 @@ Considering the way software has eaten the world, this is most jobs. Pick what y
 1
 53
 7.3K",career,low,imtisaal-portfolio,inspiration,Reasonable reminder that non-tech jobs can build useful domain expertise.,https://x.com/AnEriksenWife/status/1785066934393835764,,,Too broad to guide a specific decision.
-196,2024-04-28T02:32:37,@boltsfood,"me
+198,2024-04-28T02:32:37,@boltsfood,"me
 @boltsfood
 ·
 Apr 27, 2024
@@ -3251,7 +3290,7 @@ mesmerized by this italian plastic surgery practice's instagram lol
 10K
 147K
 13M",social-marketing,low,general/cloud-index,inspiration,"Aesthetic social-media example for a cosmetic practice, but no reproducible details.",https://x.com/boltsfood/status/1784410359698231353,,,Medical advertising and before/after content carry ethical and regulatory risks.
-197,2024-04-26T16:24:06,@seconds_0,"0.005 Seconds (3/694)
+199,2024-04-26T16:24:06,@seconds_0,"0.005 Seconds (3/694)
 @seconds_0
 ·
 Apr 26, 2024
@@ -3260,17 +3299,17 @@ Very serious question: for people who make art, who feel like they need to make 
 219
 1.2K
 239K",creativity,low,general/cloud-index,inspiration,Reflective discussion prompt about artistic motivation.,https://x.com/seconds_0/status/1783894835180781796,,,No concrete tool or source.
-198,2024-04-24T16:50:01,@t_blom,"Tom Blomfield
+200,2024-04-24T16:50:01,@t_blom,"Tom Blomfield
 @t_blom
 ·
 Apr 24, 2024
-Startups often struggle with naming. Early at 
+Startups often struggle with naming. Early at
 @monzo
 , we had an ugly 12 month trademark dispute over “mondo”, our original name.
 
-So 
+So
 @jonas
-, my cofounder at 
+, my cofounder at
 @monzo
 , started a side project that sells cheap .com domains that would make good startup names like
 Show more
@@ -3279,7 +3318,7 @@ Show more
 516
 220K",startup-naming,medium,general/cloud-index,research-later,Highlights trademark risk and a possible source of startup-ready domains.,https://x.com/t_blom/status/1783176583508881541,,"Monzo naming story
 startup-name domain marketplace",Tweet truncates the service name; domains still need trademark and history checks.
-199,2024-04-24T02:22:24,@ashleyanne_p,"Ashley Pokorski
+201,2024-04-24T02:22:24,@ashleyanne_p,"Ashley Pokorski
 @ashleyanne_p
 ·
 Apr 23, 2024
@@ -3288,15 +3327,15 @@ Show more
 11
 26
 8.6K",founder-finance,noise,LabZeroGrants,ignore,"A question seeking advice, with no usable answer in the saved item.",https://x.com/ashleyanne_p/status/1782958240395137150,,,Investment governance requires legal and financial advice.
-200,2024-04-23T17:25:59,@benln,"Ben Lang
+202,2024-04-23T17:25:59,@benln,"Ben Lang
 @benln
 ·
 Apr 23, 2024
 Here's a new list of 30 early-stage startups with less than 50 employees, all with significant traction, and most are backed by top-tier investors like Benchmark, a16z, Khosla, Elad Gil, Greylock. All are hiring.
-1) Softr 
+1) Softr
 @softr_io
  (remote)
-2) Spellbook 
+2) Spellbook
 @SpellbookLegal
  (remote)
 Show more
@@ -3305,7 +3344,7 @@ Show more
 438
 121K",career,low,imtisaal-portfolio,ignore,A 2024 hiring list is now too stale to treat as a live opportunity source.,https://x.com/benln/status/1782823243075731739,,"Softr
 Spellbook","Headcount, funding, and openings likely changed."
-201,2024-04-23T06:54:59,@malisauskasLT,"Erikas Mališauskas
+203,2024-04-23T06:54:59,@malisauskasLT,"Erikas Mališauskas
 @malisauskasLT
 ·
 Apr 23, 2024
@@ -3319,7 +3358,7 @@ Now that I’m not working with clients anymore, I can stop gatekeeping 😅 Her
 Webflow Templates
 Framer Templates
 Iconfinder","Check licenses, template quality, accessibility, recurring fees, and vendor lock-in."
-202,2024-04-22T13:52:51,@aschwags3,"adriane schwager
+204,2024-04-22T13:52:51,@aschwags3,"adriane schwager
 @aschwags3
 ·
 Apr 22, 2024
@@ -3334,7 +3373,7 @@ Here are my top 11 learnings on leadership, entrepreneurship, and startups 👇�
 70
 920
 401K",leadership,medium,LabZeroGrants,add-reference,Bootstrapped founder's operating lessons may inform leadership practices.,https://x.com/aschwags3/status/1782407221005234600,,,Revenue claim and survivorship bias should not be treated as proof.
-203,2024-04-21T16:04:34,@readswithravi,"Reads with Ravi
+205,2024-04-21T16:04:34,@readswithravi,"Reads with Ravi
 @readswithravi
 ·
 Apr 21, 2024
@@ -3349,13 +3388,13 @@ Abigail Shrier and Jonathan Haidt
 7K
 1.9M",education,medium,lab-zero-website,research-later,"Points to books debating youth mental health, parenting, and technology.",https://x.com/readswithravi/status/1782077981294318052,,"Abigail Shrier
 Jonathan Haidt","Polarized topic; verify exact books, evidence quality, and counterarguments before use."
-204,2024-04-20T18:46:59,@AbhayVenkatesh1,"Abhay
+206,2024-04-20T18:46:59,@AbhayVenkatesh1,"Abhay
 @AbhayVenkatesh1
 ·
 Apr 20, 2024
-Replying to 
+Replying to
 @AbhayVenkatesh1
-If you are interested in joining, please sign-up here: 
+If you are interested in joining, please sign-up here:
 https://
 forms.gle/ZdwaW59Q7QKRUX
 RK7
@@ -3368,7 +3407,7 @@ Sign-up for the Early Career Office Hours hosted by Sam and Abhay. Early Career 
 4
 59
 7.9K",career,noise,imtisaal-portfolio,ignore,Expired 2024 office-hours signup has no current utility.,https://x.com/AbhayVenkatesh1/status/1781756467672138062,https://t.co/3olTCuPQPb,Early Career Office Hours,Form may collect personal data and the program may no longer run.
-205,2024-04-21T11:20:53,@willmcgugan,"Will McGugan
+207,2024-04-21T11:20:53,@willmcgugan,"Will McGugan
 @willmcgugan
 ·
 Apr 21, 2024
@@ -3377,7 +3416,7 @@ Developers over 40. What advice would you give to developers just starting their
 195
 657
 1.6M",career,low,imtisaal-portfolio,ignore,Prompt asks for career advice but contains none of the replies.,https://x.com/willmcgugan/status/1782006587495727175,,,Missing source content.
-206,2024-04-20T16:19:13,@nikitabier,"Nikita Bier
+208,2024-04-20T16:19:13,@nikitabier,"Nikita Bier
 @nikitabier
 ·
 Apr 20, 2024
@@ -3388,7 +3427,7 @@ Once you shift the conversation from whether they want to invest to how much the
 41
 1.2K
 301K",fundraising,medium,LabZeroGrants,inspiration,Useful negotiation framing for converting investor interest into a smaller commitment.,https://x.com/nikitabier/status/1781719280012386670,,,Anecdotal tactic can feel manipulative and may not fit grant or nonprofit fundraising.
-207,2024-04-19T16:58:08,@kurtisjlin,"Kurtis Lin
+209,2024-04-19T16:58:08,@kurtisjlin,"Kurtis Lin
 @kurtisjlin
 ·
 Apr 19, 2024
@@ -3404,7 +3443,7 @@ Show more
 15
 236
 53K",career,medium,imtisaal-portfolio,inspiration,Specific executive-interview storytelling behaviors are reusable.,https://x.com/kurtisjlin/status/1781366685577957738,,,Saved thread is truncated and reflects one interviewer's preferences.
-208,2024-04-19T15:15:00,@marclou,"Marc Lou
+210,2024-04-19T15:15:00,@marclou,"Marc Lou
 @marclou
 ·
 Apr 19, 2024
@@ -3426,7 +3465,7 @@ Vercel
 Plausible
 GitHub Copilot
 AWS",2024 cost and architecture advice may be outdated; do not migrate a working project solely from this post.
-209,2024-04-17T03:47:57,@heyellehogan,"elle ✨
+211,2024-04-17T03:47:57,@heyellehogan,"elle ✨
 @heyellehogan
 ·
 Apr 16, 2024
@@ -3440,11 +3479,11 @@ Show more
 12
 325
 51K",communication,low,general/cloud-index,inspiration,Potentially useful concept of precise interpersonal feedback.,https://x.com/heyellehogan/status/1780443051179016299,,,Unsolicited feedback can cause harm; consent and relationship context matter.
-210,2024-04-17T17:28:24,@annarmonaco,"Anna Monaco
+212,2024-04-17T17:28:24,@annarmonaco,"Anna Monaco
 @annarmonaco
 ·
 Apr 17, 2024
-5 days until the application deadline to apply to 
+5 days until the application deadline to apply to
 @ycombinator
  !
 
@@ -3455,7 +3494,7 @@ Here’s how we did it:
 37
 792
 388K",accelerators,medium,LabZeroGrants,add-reference,YC application story may offer useful tactics despite the old deadline.,https://x.com/annarmonaco/status/1780649525314752808,,Y Combinator application,Outcome is anecdotal and 2024 deadlines are obsolete.
-211,2024-04-15T19:33:37,@ryanlpeterman,"Ryan Peterman
+213,2024-04-15T19:33:37,@ryanlpeterman,"Ryan Peterman
 @ryanlpeterman
 ·
 Apr 15, 2024
@@ -3464,18 +3503,18 @@ Getting good at Leetcode got me offers from every company I interviewed at (Face
 79
 648
 162K",career,medium,imtisaal-portfolio,add-reference,A structured LeetCode practice account may help technical interview preparation.,https://x.com/ryanlpeterman/status/1779956262106726754,,LeetCode,Interview formats change and algorithm drilling should not replace systems or project work.
-212,2024-04-01T16:11:33,@sentientist,"Diana S. Fleischman
+214,2024-04-01T16:11:33,@sentientist,"Diana S. Fleischman
 @sentientist
 ·
 Apr 1, 2024
-Replying to 
+Replying to
 @sentientist
 How can you be more appreciative of your partner? Imagine what their new boyfriend or girlfriend would love about them
 9
 49
 399
 297K",relationships,low,general/cloud-index,inspiration,Memorable appreciation exercise with limited project relevance.,https://x.com/sentientist/status/1774831980481499458,,,Could trigger insecurity; use thoughtfully.
-213,2024-04-13T18:34:15,@ReamBraden,"Braden Ream
+215,2024-04-13T18:34:15,@ReamBraden,"Braden Ream
 @ReamBraden
 ·
 Apr 13, 2024
@@ -3491,7 +3530,7 @@ Show more
 38K",community-building,medium,LabZeroGrants,inspiration,Toronto-specific observations may help local tech-event and ecosystem planning.,https://x.com/ReamBraden/status/1779216544964256216,,"New Demos
 535
 Vclub",Opinion is from 2024 and may not reflect the current ecosystem.
-214,2024-04-10T20:44:00,@wetarynitup,"Taryn
+216,2024-04-10T20:44:00,@wetarynitup,"Taryn
 @wetarynitup
 ·
 Apr 10, 2024
@@ -3499,7 +3538,7 @@ what other ui design tools are worth considering for those of us who spend 90% o
 9
 11
 3.6K",design-tools,noise,lab-zero-website,ignore,Question asks for alternatives but saves none of the answers.,https://x.com/wetarynitup/status/1778162034103746648,,Figma,Missing recommendations.
-215,2024-04-09T12:58:06,@oluremi_x,"Oluremi Martins
+217,2024-04-09T12:58:06,@oluremi_x,"Oluremi Martins
 @oluremi_x
 ·
 Apr 9, 2024
@@ -3508,7 +3547,7 @@ The absolute madness that Selena is doing with Rare Beauty needs to be studied. 
 290
 1.1K
 172K",brand-strategy,medium,lab-zero-website,research-later,Rare Beauty could be a useful independent brand-growth case study.,https://x.com/oluremi_x/status/1777682401352724539,,Rare Beauty,ARR and ownership claims need verification; celebrity economics may not transfer.
-216,2024-04-08T12:37:22,@akshay_pachaar,"Akshay 🚀
+218,2024-04-08T12:37:22,@akshay_pachaar,"Akshay 🚀
 @akshay_pachaar
 ·
 Apr 8, 2024
@@ -3521,24 +3560,24 @@ https://github.com/cleanlab/cleanlab
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 https://github.com/dair-ai/Prompt-Engineering-Guide
 https://github.com/Lightning-AI/litgpt","Curated lists may be stale or noisy; LitGPT is compute-heavy and should use cloud hardware, not this Mac."
-217,2024-04-08T21:54:44,@elidourado,"Eli Dourado
+219,2024-04-08T21:54:44,@elidourado,"Eli Dourado
 @elidourado
 ·
 Apr 8, 2024
-Replying to 
+Replying to
 @LauraDeming
-A Gentle Introduction to the Art of Mathematics 
+A Gentle Introduction to the Art of Mathematics
 https://
 osj1961.github.io/giam/
 2
 14
 1.4K",mathematics,high,lab-zero-website,add-reference,Free structured introduction to proof-oriented mathematics fits educational resource curation.,https://x.com/elidourado/status/1777455060793897280,https://t.co/6bgnqRKetR,"A Gentle Introduction to the Art of Mathematics
 https://osj1961.github.io/giam/",Confirm learner level and license before republishing any material.
-218,2024-04-08T16:02:38,@chrysb,"Chrys Bader
+220,2024-04-08T16:02:38,@chrysb,"Chrys Bader
 @chrysb
 ·
 Apr 8, 2024
-The key message to the W24 
+The key message to the W24
 @ycombinator
  batch was: Velocity, velocity, velocity 🚀
 
@@ -3549,21 +3588,21 @@ Here are the 10 commandments for shipping product at lightning speed: 🧵
 79
 597
 284K",product-management,medium,general/cloud-index,inspiration,Product-velocity principles may support faster iteration and prioritization.,https://x.com/chrysb/status/1777366451772665926,,YC W24 velocity commandments,"Speed advice can create quality, accessibility, or burnout tradeoffs."
-219,2024-04-07T22:49:02,@andresmedrano_,"Andrés ⚽
+221,2024-04-07T22:49:02,@andresmedrano_,"Andrés ⚽
 @andresmedrano_
 ·
 Apr 7, 2024
-Replying to 
+Replying to
 @SchrodingrsBrat
 If you can get yourself to truly believe that you’d be exactly like any other person if you’d been born into their circumstances and experienced what they have, then you’d see that there’s no room for judgement. The door to compassion and understanding opens.
 4
 25
 1.8K",personal-development,low,general/cloud-index,inspiration,Concise compassion and perspective-taking prompt.,https://x.com/andresmedrano_/status/1777106335315927541,,,"Philosophical claim, not an operational method."
-220,2024-04-07T23:04:39,@StuartBlitz,"Stuart Blitz
+222,2024-04-07T23:04:39,@StuartBlitz,"Stuart Blitz
 @StuartBlitz
 ·
 Apr 7, 2024
-One of the biggest healthcare issues is patients don’t have all their health data in one place. So many siloed systems. 
+One of the biggest healthcare issues is patients don’t have all their health data in one place. So many siloed systems.
 
 What if someone built a super app that pulled in all their data? They’d pay a monthly fee. Payors would push to their members.
 
@@ -3572,7 +3611,7 @@ Is anyone building this?
 12
 109
 32K",healthtech,medium,general/cloud-index,research-later,Patient-controlled health-data aggregation is a meaningful product problem.,https://x.com/StuartBlitz/status/1777110265948996025,,personal health-data super app concept,"HIPAA/PIPEDA, consent, interoperability, security, liability, and payer incentives are major barriers."
-221,2024-04-05T22:22:06,@seq23,"sequoia taylor
+223,2024-04-05T22:22:06,@seq23,"sequoia taylor
 @seq23
 ·
 Apr 5, 2024
@@ -3588,13 +3627,13 @@ I just don't think it's much harder to say ""hey, I have these two windows open,
 3
 42
 27K",productivity,noise,general/cloud-index,ignore,Unstated Calendly critique provides no evidence or alternative workflow.,https://x.com/seq23/status/1776374782180696286,,Calendly,Pure opinion.
-222,2024-04-04T20:04:33,@chrissyfarr,"Christina Farr
+224,2024-04-04T20:04:33,@chrissyfarr,"Christina Farr
 @chrissyfarr
 ·
 Apr 4, 2024
-Here's an alternative for CEOs. Pick 3-5 journalists, read their stuff, learn things, send them an email: 
+Here's an alternative for CEOs. Pick 3-5 journalists, read their stuff, learn things, send them an email:
 
-""Hi I'm Tk. I do TK. I'm here to help if I can and I've worked here (mention companies) and I've got expertise around (mention spaces). How can I help you? 
+""Hi I'm Tk. I do TK. I'm here to help if I can and I've worked here (mention companies) and I've got expertise around (mention spaces). How can I help you?
 
 Here's my
 Show more
@@ -3608,11 +3647,11 @@ Omg — pr people please never pitch me a story three times in a row (it’s bee
 20
 160
 53K",public-relations,high,lab-zero-website,add-reference,Actionable relationship-first approach for founders communicating with journalists.,https://x.com/chrissyfarr/status/1775977780305408356,,,"Outreach must be personalized, truthful, low-frequency, and not manipulative."
-223,2024-04-01T23:49:02,@AdamTzag,"Adam Tzagournis, CPA
+225,2024-04-01T23:49:02,@AdamTzag,"Adam Tzagournis, CPA
 @AdamTzag
 ·
 Apr 1, 2024
-Replying to 
+Replying to
 @kimmytaylor
 Disagree, can help founders think through use of funds, pricing, unit economics, and what-if questions.
 
@@ -3621,56 +3660,56 @@ GIF
 2
 10
 1.2K",founder-finance,medium,LabZeroGrants,inspiration,"Good reminder that lightweight models can clarify pricing, unit economics, and use of funds.",https://x.com/AdamTzag/status/1774947109264879691,,,No actual tool is named; assumptions still require validation.
-224,2024-04-01T14:26:10,@tiebartester,"Greg “Sad Dog” Saddux 🇺🇸🇺🇸🇺🇸
+226,2024-04-01T14:26:10,@tiebartester,"Greg “Sad Dog” Saddux 🇺🇸🇺🇸🇺🇸
 @tiebartester
 ·
 Apr 1, 2024
-Replying to 
+Replying to
 @tiebartester
 Addendum: y'all would be SHOCKED at the number of people who own $650k homes and can't afford to furnish them.
 62
 353
 11K
 796K",consumer-insight,low,general/cloud-index,ignore,Anecdote about homeowners lacking furniture budget has no direct project use.,https://x.com/tiebartester/status/1774805460467499017,,,Broad generalization from unspecified evidence.
-225,2024-04-01T06:00:50,@TiroshiA,"Amit Tiroshi
+227,2024-04-01T06:00:50,@TiroshiA,"Amit Tiroshi
 @TiroshiA
 ·
 Apr 1, 2024
-Replying to 
+Replying to
 @RyanCTJ
- 
+
 @elizalian
- and 
+ and
 @DStrachman
 amazon.com.au
 Be Useful: Seven tools for life
 Seven lessons from the international icon on how to live a meaningful, purposeful life, for fans of and Wim Hof The world's greatest bodybuilder. The world's highest paid movie star. The leader of...
 133",personal-development,medium,general/cloud-index,add-reference,Named book is a clear optional reading lead.,https://x.com/TiroshiA/status/1774678286892986441,https://t.co/QxJbPIXDez,Be Useful: Seven Tools for Life,Celebrity-authored advice should be assessed critically.
-226,2024-03-19T22:30:02,@dunkhippo33,"Elizabeth Yin 💛
+228,2024-03-19T22:30:02,@dunkhippo33,"Elizabeth Yin 💛
 @dunkhippo33
 ·
 Mar 19, 2024
-Replying to 
+Replying to
 @dunkhippo33
-8) c) Now let's say you have a business that has variable revenue and whatever profits you are making you are pouring back into the company. You want to keep cash in your business for a rainy day as well. You are drawing minimal salary for yourself. 
+8) c) Now let's say you have a business that has variable revenue and whatever profits you are making you are pouring back into the company. You want to keep cash in your business for a rainy day as well. You are drawing minimal salary for yourself.
 
 Oh no. This is the problem.
 1
 4
 59
 46K",founder-finance,medium,LabZeroGrants,add-reference,"Highlights the tension between reinvestment, reserves, and founder salary in variable-revenue businesses.",https://x.com/dunkhippo33/status/1770216186825089105,,,"Thread is incomplete; tax, payroll, and solvency decisions need professional advice."
-227,2024-02-03T02:50:07,@MartinBekerman,"bek
+229,2024-02-03T02:50:07,@MartinBekerman,"bek
 @MartinBekerman
 ·
 Feb 2, 2024
-Replying to 
+Replying to
 @Trace_Cohen
 Learn a new language watching scenes from your favorite movies
 4
 1
 30
 2.1K",language-learning,low,general/cloud-index,research-later,Interesting movie-scene language-learning concept but no product name is captured.,https://x.com/MartinBekerman/status/1753611796492021883,,movie-scene language learning tool,"Cannot evaluate quality, licensing, or privacy without the missing context."
-228,2023-11-08T15:00:08,@Julian,"Julian Shapiro
+230,2023-11-08T15:00:08,@Julian,"Julian Shapiro
 @Julian
 ·
 Nov 8, 2023
@@ -3683,17 +3722,17 @@ My most clever home automations so far:
 780
 7.9K
 3.3M",home-automation,medium,general/cloud-index,inspiration,Large real-world collection of smart-home automation ideas.,https://x.com/Julian/status/1722267765334253900,,30+ smart-home gadget automation thread,"Hardware cost, vendor lock-in, network security, and household privacy."
-229,2023-08-30T16:32:58,@FarzaTV,"Farza 🇵🇰🇺🇸
+231,2023-08-30T16:32:58,@FarzaTV,"Farza 🇵🇰🇺🇸
 @FarzaTV
 ·
 Aug 30, 2023
-Replying to 
+Replying to
 @FarzaTV
 If you ain't a Figma pro -- here's an ez template we made.
 
 Just duplicate, edit, and press play at the top right.
 
-Shoutout to 
+Shoutout to
 @stavan
  for showing me this last year.
 
@@ -3708,22 +3747,22 @@ kNwxUjW4Meaj2/template_deck?type=design&node-id=0%3A3&mode=design&t=WiO3tpV7Y4yC
 1
 31
 3K",presentation-design,high,LabZeroGrants,add-reference,Directly reusable Figma presentation template for pitches and project decks.,https://x.com/FarzaTV/status/1696923978231914546,https://t.co/JnraClQkUu,https://www.figma.com/file/kWVJ3L2eQkNwxUjW4Meaj2/template_deck?type=design&node-id=0%3A3&mode=design,"Check sharing permissions, font/assets licenses, accessibility, and template ownership."
-230,2023-08-26T21:58:02,@nootropicguy,"NootBro
+232,2023-08-26T21:58:02,@nootropicguy,"NootBro
 @nootropicguy
 ·
 Aug 26, 2023
-10 potent tools to 10x your dopamine levels 
+10 potent tools to 10x your dopamine levels
 
 THREAD 🧵
 123
 704
 6.7K
 1.5M",health,noise,general/cloud-index,ignore,Sensational dopamine-optimization framing without evidence in the saved text.,https://x.com/nootropicguy/status/1695556233548177480,,,Health misinformation and unsafe supplement or behavior advice may appear in the thread.
-231,2023-08-25T15:50:06,@chriscera,"Chris Cera
+233,2023-08-25T15:50:06,@chriscera,"Chris Cera
 @chriscera
 ·
 Aug 25, 2023
-Replying to 
+Replying to
 @nikillinit
 You get “hired” … then they tell you that you need to buy your laptop before you start.  You purchase equipment on a fake eCommerce site.  They send you a check for reimbursement, but it bounces.  They win.  They also get your ID, green card, etc.
 Alert: Fraudulent Job Offers & Phishing Scams | Arcweb Technologies
@@ -3733,11 +3772,11 @@ From arcwebtech.com
 4
 616",security,high,imtisaal-portfolio,add-reference,Clear warning pattern for fake-job equipment-check and identity-theft scams.,https://x.com/chriscera/status/1695101253057970671,https://t.co/sY505e0hbN,"Arcweb Technologies: Fraudulent Job Offers & Phishing Scams
 https://t.co/sY505e0hbN","Never send ID, banking details, or money before independently verifying an employer and domain."
-232,2023-08-24T19:39:37,@NaurCleoor,"Oontz Oontz
+234,2023-08-24T19:39:37,@NaurCleoor,"Oontz Oontz
 @NaurCleoor
 ·
 Aug 24, 2023
-Some ppl I’ve seen live 
+Some ppl I’ve seen live
 Isaiah Rashad
 Kelela
 Solange
@@ -3753,20 +3792,20 @@ MNDSGN
 Sampha The Great
 Burna Boy
 Ari Lennox
-Mick Jenkins 
+Mick Jenkins
 Prince
 Crumb
 Topaz Jones
 Jamilla Woods
 Yaeji
 THEY.
-J. Cole 
+J. Cole
 Grimes
 35
 183
 951
 3.1M",music,noise,general/cloud-index,ignore,Personal concert list has no actionable project value.,https://x.com/NaurCleoor/status/1694796622679384331,,,
-233,2023-08-24T15:57:05,@wono_strategy,"wono
+235,2023-08-24T15:57:05,@wono_strategy,"wono
 @wono_strategy
 ·
 Aug 24, 2023
@@ -3785,11 +3824,11 @@ Here's how.
 526
 5K
 1.5M",content-growth,medium,lab-zero-website,inspiration,Potential case study for launching an AI-assisted YouTube channel.,https://x.com/wono_strategy/status/1694740621599428999,,,Viral and subscriber claims are unverified; thread may promote spammy automation or copyright misuse.
-234,2023-08-19T20:22:39,@ehalm_,"Emmet Halm
+236,2023-08-19T20:22:39,@ehalm_,"Emmet Halm
 @ehalm_
 ·
 Aug 19, 2023
-It’s been almost 6-months since I started to learn how to code 🗓️ 
+It’s been almost 6-months since I started to learn how to code 🗓️
 
 It changed my life drastically.
 
@@ -3798,7 +3837,7 @@ If I had to do it all over again in three months, here’s what I would keep and
 6
 95
 23K",software-learning,low,imtisaal-portfolio,inspiration,Personal learning-to-code retrospective may provide motivation but no resources are saved.,https://x.com/ehalm_/status/1692995512805265627,,,One learner's path may not generalize.
-235,2023-08-16T00:58:41,@HelenGuo_,"Helen Guo
+237,2023-08-16T00:58:41,@HelenGuo_,"Helen Guo
 @HelenGuo_
 ·
 Aug 15, 2023
@@ -3813,13 +3852,13 @@ Here's the playbook:
 196
 3.1K
 1.2M",newsletter,medium,lab-zero-website,research-later,Newsletter monetization playbook may inform audience and content strategy.,https://x.com/HelenGuo_/status/1691615427313500503,,,Income and hours claims are unverified and likely omit acquisition costs.
-236,2023-07-26T06:47:59,@Altimor,"Flo Crivello
+238,2023-07-26T06:47:59,@Altimor,"Flo Crivello
 @Altimor
 ·
 Jul 26, 2023
-1. I could write a book about this, unfortunately 
+1. I could write a book about this, unfortunately
 
-First , these businesses are *insanely* expensive both to start and operate. 
+First , these businesses are *insanely* expensive both to start and operate.
 
 The tech alone is mind bogglingly complex, for just today’s table stakes. Huge amount of AI involved for pricing, routing, dispatching etc.
 Quote
@@ -3839,7 +3878,7 @@ Uber Eats
 DoorDash
 Grubhub
 Taskrabbit",2023 economics and competitive conditions may be stale.
-237,2023-07-25T18:20:45,@jameygannon,"techbimbo
+239,2023-07-25T18:20:45,@jameygannon,"techbimbo
 @jameygannon
 ·
 Jul 25, 2023
@@ -3848,7 +3887,7 @@ so glad people have been fucking with me because i now have access to the world�
 1
 30
 3.6K",humor,noise,general/cloud-index,ignore,Personal joke with no reusable resource.,https://x.com/jameygannon/status/1683905141890482183,,,Mentions a controlled medication casually.
-238,2023-07-25T00:53:40,@shauseth,"shaurya
+240,2023-07-25T00:53:40,@shauseth,"shaurya
 @shauseth
 ·
 Jul 24, 2023
@@ -3857,22 +3896,22 @@ karpathy has a gift for teaching. its crazy how much you learn when the teacher 
 16
 435
 22K",ai-learning,low,general/cloud-index,research-later,"Signals that Karpathy's teaching is worth finding, but names no specific course.",https://x.com/shauseth/status/1683641632309256192,,Andrej Karpathy educational content,Need the parent-thread context before selecting a resource.
-239,2023-06-16T16:04:36,@PinstripeBungle,"A-100 gecs
+241,2023-06-16T16:04:36,@PinstripeBungle,"A-100 gecs
 @PinstripeBungle
 ·
 Jun 16, 2023
-Replying to 
+Replying to
 @PinstripeBungle
 the US visa officer is, by virtue of the doctrine of consular nonreviewability, literally an unquestionable black box capable of irreversible decisions they don't need to explain. there are maybe six weeks of formal training and then its just up to vibes after that.
 8
 405
 4.6K
 318K",immigration,medium,general/cloud-index,research-later,Raises a consequential legal concept about US visa adjudication.,https://x.com/PinstripeBungle/status/1669737748998115328,,doctrine of consular nonreviewability,Legal claim is simplified and not advice; verify with current primary law or counsel.
-240,2023-07-20T22:05:29,@nikillinit,"Nikhil Krishnan
+242,2023-07-20T22:05:29,@nikillinit,"Nikhil Krishnan
 @nikillinit
 ·
 Jul 20, 2023
-Here is my writeup of what I'm seeing in healthcare in 2023 
+Here is my writeup of what I'm seeing in healthcare in 2023
 
 I think you'll read about something that'll pique your interest
 
@@ -3885,11 +3924,11 @@ tching-in-healthcare-2023
 6
 24
 17K",healthcare,medium,general/cloud-index,add-reference,Sector landscape article may be useful as historical healthcare context.,https://x.com/nikillinit/status/1682149757924306948,https://t.co/oqppMEEs99,https://outofpocket.health/p/things-im-watching-in-healthcare-2023,Predictions and market facts are from 2023 and require current verification.
-241,2023-07-22T12:07:11,@darkgh0sts,"abby | darl𖧷ing
+243,2023-07-22T12:07:11,@darkgh0sts,"abby | darl𖧷ing
 @darkgh0sts
 ·
 Jul 22, 2023
-Replying to 
+Replying to
 @KayDimple1
 https://
 youtu.be/D0aEX9pdBC0
@@ -3897,7 +3936,7 @@ youtu.be/D0aEX9pdBC0
 320
 4.4K
 407K",video,low,general/cloud-index,ignore,Opaque YouTube link has no saved description or project relevance.,https://x.com/darkgh0sts/status/1682723965356363776,https://t.co/lFxZgy4DWd,https://youtu.be/D0aEX9pdBC0,Unknown content.
-242,2023-07-13T14:09:09,@thechrisperry,"Chris Perry
+244,2023-07-13T14:09:09,@thechrisperry,"Chris Perry
 @thechrisperry
 ·
 Jul 13, 2023
@@ -3906,7 +3945,7 @@ Google is standardizing interview questions (finally?) so I am forced to retire 
 419
 4.6K
 1M",career,high,imtisaal-portfolio,add-reference,Large set of real PM interview questions can support product-interview preparation.,https://x.com/thechrisperry/status/1679493168478273536,,Google PM interview-question thread,Questions are from 2023 and may not match current standardized interviews.
-243,2023-06-28T19:09:00,@aadilpickle,"aadilpickle
+245,2023-06-28T19:09:00,@aadilpickle,"aadilpickle
 @aadilpickle
 ·
 Jun 28, 2023
@@ -3914,7 +3953,7 @@ since im unemployed now, ive been taking extreme cost cutting measures.
 
 most days I spend $0 dollars in sf. heres my routine:
 
-- bus to 
+- bus to
 http://
 f.inc office (free)
 - eat only office snacks and food (free)
@@ -3925,7 +3964,7 @@ any other tips?
 3
 129
 36K",personal-finance,noise,general/cloud-index,ignore,Humorous extreme cost-cutting routine is not a durable or transferable resource.,https://x.com/aadilpickle/status/1674132808955203584,https://t.co/tLdLGcnz5f,,Relies on employer perks and potentially unsafe late travel.
-244,2023-06-25T10:16:02,@kytalli,"gena ?!
+246,2023-06-25T10:16:02,@kytalli,"gena ?!
 @kytalli
 ·
 Jun 25, 2023
@@ -3934,7 +3973,7 @@ i don’t know abt u but the biggest lifehack for me has been destroying all my 
 274
 2K
 124K",communication,medium,general/cloud-index,inspiration,Useful reminder to suspend preconceptions and observe people more accurately.,https://x.com/kytalli/status/1672911522006454272,,,"Personal philosophy, not validated methodology."
-245,2023-06-23T18:50:49,@jobswithshay,"Shay Loko
+247,2023-06-23T18:50:49,@jobswithshay,"Shay Loko
 @jobswithshay
 ·
 Jun 23, 2023
@@ -3952,7 +3991,7 @@ Do this 👇🏾
 7.6K
 34K
 4.2M",career,high,imtisaal-portfolio,add-reference,Practical interview framing for answering why an employer should hire you.,https://x.com/jobswithshay/status/1672316295352557573,,,"Full two-step answer is in the thread, not the captured text."
-246,2023-06-19T17:01:19,@HelenGuo_,"Helen Guo
+248,2023-06-19T17:01:19,@HelenGuo_,"Helen Guo
 @HelenGuo_
 ·
 Jun 19, 2023
@@ -3963,7 +4002,7 @@ I did this for 2+ years, and here's what you should know:
 31
 411
 244K",consulting,medium,general/cloud-index,research-later,Expert networks may offer legitimate paid advisory work for qualified specialists.,https://x.com/HelenGuo_/status/1670839187304595461,,expert networks,"Check confidentiality, employer conflicts, securities rules, scam risk, and tax obligations."
-247,2023-06-18T12:06:11,@matt_gray_,"MATT GRAY
+249,2023-06-18T12:06:11,@matt_gray_,"MATT GRAY
 @matt_gray_
 ·
 Jun 18, 2023
@@ -3974,24 +4013,24 @@ Here are 8 rare traits I see in every high performer:
 633
 3.8K
 1.8M",hiring,medium,LabZeroGrants,add-reference,High-performer trait list may help refine interview and performance rubrics.,https://x.com/matt_gray_/status/1670402526435213314,,,Selection bias and vague traits can create unfair hiring signals.
-248,2020-07-21T02:53:27,@eddiebrannan,"Eddie James Brannan
+250,2020-07-21T02:53:27,@eddiebrannan,"Eddie James Brannan
 @eddiebrannan
 ·
 Jul 20, 2020
-Replying to 
+Replying to
 @questlove
 Not necessarily. Artists who are bipolar often associate their manic phases with their creative urges and don’t want to medicate as a result. They feel the troughs are the price they pay for the peaks.
 13
 6
 151",mental-health,low,general/cloud-index,ignore,Anecdote about bipolar disorder and creativity is not an actionable or reliable resource.,https://x.com/eddiebrannan/status/1285407514654208000,,,Mental-health generalization; medication decisions belong with clinicians.
-249,2020-07-18T23:05:06,@yungchente97,"Yung Chente🌩️🇲🇽 (birthday era)
+251,2020-07-18T23:05:06,@yungchente97,"Yung Chente🌩️🇲🇽 (birthday era)
 @yungchente97
 ·
 Jul 18, 2020
 some of u need 2 realize not every tweet is about u, like dawg u do not matter that much :)
 19
 53",humor,noise,general/cloud-index,ignore,One-line social observation with no project value.,https://x.com/yungchente97/status/1284625271145013248,,,
-250,2020-07-13T13:30:57,@KatinaParon,"Katina Paron, MJE
+252,2020-07-13T13:30:57,@KatinaParon,"Katina Paron, MJE
 @KatinaParon
 ·
 Jul 13, 2020
