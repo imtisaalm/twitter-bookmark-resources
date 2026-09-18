@@ -1,6 +1,5 @@
 # Twitter bookmark harvest
 
-Curated on 2026-09-17 from the complete visible X bookmark history, from the newest saves back to the oldest item shown (2020).
 
 The goal is to turn durable bookmarks into useful project inputs without bulk-installing untrusted code. Links were checked against official repositories or product documentation where practical.
 
@@ -28,21 +27,8 @@ The source Sheet remains available in [Google Drive](https://docs.google.com/spr
 | Goose Graphics skill | `~/.codex/skills/goose-graphics` | Social graphics, carousels, posters, and visual explainers | Skill files installed. Browser/render dependencies were not installed, and no login, publishing, or paid API action was run. |
 | Remotion core skills | `~/.codex/skills/remotion-*` | Programmatic video, captions, multimedia, and rendering | Installed the official `best-practices`, `create`, `markup`, `interactivity`, `captions`, `multimedia`, and `render` skill files. The companion skills keep `remotion-create` cross-links intact. No Remotion app or heavyweight render dependencies were added. |
 
-Large repositories were not cloned because this Mac had less than 1 GB of free disk space during the harvest. Their verified links and intended uses are preserved below.
 
-## Use now
-
-### Funding deadline: September 18, 2026
-
-The Canadian Women’s Economic and Leadership Opportunities Fund closes at **12:00 noon Pacific / 3:00 p.m. Toronto on September 18, 2026**. Lab Zero may be a fit only if the applicant is a legally constituted Canadian nonprofit with relevant women’s-equality experience.
-
-- [Official call](https://www.canada.ca/en/women-gender-equality/funding/funding-opportunities/advancing-leadership/about.html)
-- [Eligibility](https://www.canada.ca/en/women-gender-equality/funding/funding-opportunities/advancing-leadership/eligibility.html)
-- [Application instructions](https://www.canada.ca/en/women-gender-equality/funding/funding-opportunities/advancing-leadership/apply.html)
-- Maximum funding: $625,000 local, $1 million regional, or $1.4 million pan-Canadian.
-- Do not start an application until legal status, prior equality work, project scope, and the one-application limit are confirmed.
-
-### Reusable engineering references
+### engineering references
 
 - [GitHub Spec Kit](https://github.com/github/spec-kit) — MIT-licensed workflows and templates for specification, planning, tasks, implementation, bug fixing, and idea assessment. Pilot it in one clean repository before wider rollout.
 - [How complex systems fail](https://how.complexsystems.fail/) — concise resilience principles for `Lab-Zero-Primer`, `lab-zero-hub`, `elevate-studio`, and `lab-zero-outreach`.
@@ -53,8 +39,6 @@ The Canadian Women’s Economic and Leadership Opportunities Fund closes at **12
 - [BackSearch](https://www.gr.inc/backsearch) — point-in-time search for reproducible historical evaluation. Paid usage; integrate only when an evidence cutoff is a real product requirement.
 
 ## Project map
-
-| Project | High-value bookmark inputs | Recommended use |
 | --- | --- | --- |
 | `lab-zero-hub` | [Voice UI collection](https://www.mobbin.com/collections/d9129e4b-afa4-4c7b-8e31-b26edbaa858f/mobile/screens?via=rachel&referrer_creator_id=19356198-8b7a-4072-bcbf-c6955b61517f), [How complex systems fail](https://how.complexsystems.fail/), Jev Ultrafast | Reference listening, transcription, interruption, and error states; strengthen episode recovery and bounded-agent evaluation. Do not copy proprietary screenshots or add speculative services. |
 | `Lab-Zero-Primer` | [How complex systems fail](https://how.complexsystems.fail/), [AI coding playbook](https://sidbharath.com/blog/mastering-ai-coding-the-universal-playbook-of-tips-tricks-and-patterns/), [Jane Street prototype workflow](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/) | Use as review/evaluation heuristics for deterministic mastery, RLS, invitations, and instructor evidence flows. |
@@ -68,7 +52,7 @@ The Canadian Women’s Economic and Leadership Opportunities Fund closes at **12
 | `imtisaal-portfolio` | [Grace Wang portfolio](https://gracewang.design/), [Farza Figma deck](https://www.figma.com/file/kWVJ3L2eQkNwxUjW4Meaj2/template_deck?type=design&node-id=0%3A3&mode=design), [Curated Design](https://curated.design/) | Interaction and case-study storytelling references. The Figma file is public-view but has no declared license: duplicate for internal reference only. |
 | `lab-zero-outreach` | [Twenty CRM](https://github.com/twentyhq/twenty), [First Round sales program](https://www.firstround.com/sales-combine) | Product-pattern references only. Keep the existing HubSpot/SQLite/SMTP pipeline; do not connect third-party autonomous outreach agents or trigger sends from bookmark code. |
 
-## Large source repositories saved but not cloned
+## Large source repositories saved
 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Apache-2.0 pattern library with many independent demos. It is large and has heterogeneous dependencies/API-key requirements; select one example at a time into an isolated environment.
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) — visual math/physics explainer pipeline. Useful for education and finance demos, but rendering dependencies and media make it unsuitable for the remaining disk budget.
@@ -103,13 +87,3 @@ The Canadian Women’s Economic and Leadership Opportunities Fund closes at **12
 - [First Round Sales Combine](https://www.firstround.com/sales-combine) — November 6–7, 2026 in San Francisco; career-placement program, not a Lab Zero funding resource.
 - [Supabase careers](https://supabase.com/careers)
 - [Microsoft for Startups](https://www.microsoft.com/en-us/startups), [AWS Activate](https://aws.amazon.com/startups/credits), and [Google for Startups Cloud](https://cloud.google.com/startup/benefits) — apply only when the chosen cloud matches a real deployment plan. Google’s program excludes nonprofits, agencies, consultancies, and dev shops.
-
-## Skipped on purpose
-
-- Temporary `trycloudflare.com` downloads and anonymous “free skill” endpoints: unverifiable and unsafe.
-- TikTok private/mobile API scraping: legal, account, rate-limit, and platform-policy risk.
-- Watermark-removal tools and unverified “uncensored” model weights: not needed for current projects and introduce provenance/safety risks.
-- Autonomous sales services (`Explee`, `Okara`, similar): overlap the live outreach pipeline and could transmit contact data or send messages.
-- Deprecated IcePanel MCP repository: the current hosted MCP requires a paid IcePanel account; write access can mutate or delete architecture objects.
-- `appmotion.design`: dead link; replaced above with a current alternative.
-- Medical claims and anecdotal treatment bookmarks: excluded from project inputs.
