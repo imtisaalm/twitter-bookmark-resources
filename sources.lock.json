@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-09-17",
+  "sources": [
+    {
+      "name": "Jev Ultrafast",
+      "repository": "https://github.com/browser-use/jev-ultrafast",
+      "commit": "452c1ad2dd628008f1d5608f28158d76e49e6cc0",
+      "license": "MIT",
+      "handling": "Source URL and tested revision retained. Safe to fork or clone after reviewing current upstream changes.",
+      "status": "Locally installed and tested during the audit."
+    },
+    {
+      "name": "Wafer GPU Performance Engineering Resources",
+      "repository": "https://github.com/wafer-ai/gpu-perf-engineering-resources",
+      "commit": "1c52412c3e36b678b43bc414522a790a8cb0212c",
+      "license": null,
+      "handling": "Link and revision only. Do not redistribute or vendor without permission or a declared license.",
+      "status": "Locally inspected during the audit; checkout intentionally excluded from this repository."
+    }
+  ]
+}
+

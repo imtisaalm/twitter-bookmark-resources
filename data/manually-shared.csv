@@ -1,0 +1,4 @@
+Item,Source,Category,Usefulness,Target project,Action,Official resources,Status,Risk notes
+Jev Ultrafast browser agent,Photo 1 / GitHub README,AI agents / browser automation,high,lab-zero-hub; browser-agent experiments,evaluate,https://github.com/browser-use/jev-ultrafast,Locally tested earlier; cloud catalog keeps the upstream source authoritative.,Requires TypeSafe and text-model API keys. Do not grant production credentials during evaluation.
+Jev-style parallel constrained decoding / Qwen-2.5-1B-RLCD,https://x.com/swill1ams/status/2100421326389354624,AI inference / structured decisions,high,agent workflows; lab-zero-hub research,research-later,"https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD
+https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding",Saved as hosted references; no large model download.,Very new and not independently benchmarked. Apple-Silicon MLX path is not a natural fit for this Intel Mac.
